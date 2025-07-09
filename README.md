@@ -22,8 +22,6 @@ Report artifacts can be found:
   -  [B. Segment/Regional Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#b-segment-regional-analysis)
   -  [C. Product.Category Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#c-product-category-analysis)
   -  [D. Trend & Seasonality Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#d-trend--seasonality-analysis)
-  -  [E. Filter Impact Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#e-filter-impact-analysis)
-  -  [F. Root Cause Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#f-root-cause-analysis)
 - [5. Alternatives](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Alternatives.md)
 - [6. Recommendations](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Recommendations.md)
 - [7.Conclusion](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Conclusion.md)
