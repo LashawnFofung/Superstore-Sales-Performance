@@ -8,7 +8,7 @@
 
 ---
 
-<h2>3. Background</h2>
+<h2>Background</h2>
 
 Company Overview
 
