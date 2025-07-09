@@ -33,5 +33,5 @@ Report artifacts can be found:
 <h3>How to Use:</h3>
 
   1. Clone this repository. 
-  1. Open the `superstore_sales_performance.twbx` file using Tableau Desktop or Tableau Public.", 
+  1. Open the `superstore_sales_performance.twbx` file using Tableau Desktop or Tableau Public. 
   1. Interact with the dashboard by using the filters, clicking on the pie chart regions, or bubble chart sub-categories to explore sales data from different perspectives.
