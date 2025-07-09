@@ -8,6 +8,6 @@
 
 ---
 
-<h2>6. Recommendations</h2>
+<h2>Recommendations</h2>
 
 ---
