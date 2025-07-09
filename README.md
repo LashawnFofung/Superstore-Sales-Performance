@@ -2,6 +2,14 @@
 
 <h2>Case Study: Supestore Sales Performance Analysis</h2>
 
+<h3>Overview:</h3>
+
+<b><i>Superstore Sales Performance Dashboard</b></i>
+
+This repository contains the Tableau workbook (.twbx) for the "Superstore Sales Performance" dashboard, a data analysis project demonstrating data visualization and analysis skills using Tableau, Excel, and MySQL. The dashboard provides a comprehensive overview of sales, profit, and volume performance for a fictitious Superstore, enabling users to gain actionable insights into business operations.
+
+---
+
 <h3>Table of Contents</h3>
 
 Report artifacts can be found:
