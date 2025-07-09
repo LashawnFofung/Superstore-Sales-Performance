@@ -4,13 +4,13 @@
 
 <h3>Table of Contents</h3>
 
-- [4. Analysis]()
-  -  [A. Key Performance Indicators (KPIs) Analysis]()
-  -  [B. Segment/Regional Analysis]()
-  -  [C. Product.Category Analysis]()
-  -  [D. Trend & Seasonality Analysis]()
-  -  [E. Filter Impact Analysis]()
-  -  [F. Root Cause Analysis]()
+<b>4. Analysis</b>
+  -  [A. Key Performance Indicators (KPIs) Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#a-key-performance-indicators-kpis-analysis)
+  -  [B. Segment/Regional Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#b-segment-regional-analysis)
+  -  [C. Product.Category Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#c-product-category-analysis)
+  -  [D. Trend & Seasonality Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#d-trend--seasonality-analysis)
+  -  [E. Filter Impact Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#e-filter-impact-analysis)
+  -  [F. Root Cause Analysis](https://github.com/LashawnFofung/Superstore-Sales-)
 
 ---
 
