@@ -26,6 +26,6 @@ Report artifacts can be found:
 
 <h3>Technologies Used:</h3>
 
--Tableau Public/Tableau Desktop: For data visualization and dashboard creation.
--Microsoft Excel(.xls): Source data file (`superstore.xls`)
--MySQL: Leverage Structured Query Language (SQL) for managing and manipulating data.
+- Tableau Public/Tableau Desktop: For data visualization and dashboard creation.
+- Microsoft Excel(.xls): Source data file (`superstore.xls`)
+- MySQL: Leverage Structured Query Language (SQL) for managing and manipulating data.
