@@ -9,9 +9,7 @@
   -  [B. Segment/Regional Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#b-segment-regional-analysis)
   -  [C. Product.Category Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#c-product-category-analysis)
   -  [D. Trend & Seasonality Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#d-trend--seasonality-analysis)
-  -  [E. Filter Impact Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#e-filter-impact-analysis)
-  -  [F. Root Cause Analysis](https://github.com/LashawnFofung/Superstore-Sales-)
-
+    
 ---
 
 <h2>Analysis</h2>
@@ -37,7 +35,7 @@ with the X-axis formatted as "MMM YY." Tooltips show Month-Year and sales value 
 
 <br>
 
-<b>Questions</b>
+<b>Business Question(s)</b>
 
 -  What are the overal total sales, profit, and volume for the Superstore?
 -  What is the average sales amount per customer, and how does this metric differ across various customer segments or ship modes?
@@ -45,6 +43,10 @@ with the X-axis formatted as "MMM YY." Tooltips show Month-Year and sales value 
 ---
 
 <h3>B. Segment Regional Analysis</h3>
+
+<br>
+
+<b>Business Question(s)</b>
 
   -  Which regions contribute the most to total sales, and what is their percentage share of the overall sales pie?
   
@@ -62,16 +64,22 @@ with the X-axis formatted as "MMM YY." Tooltips show Month-Year and sales value 
 
 <h3>C. Product/ Category Analysis</h3>
 
+<br>
+
+<b>Business Question(s)</b>
+
+- Which sub-categories generate the highest sales, and how does this vary across different product categories?
+
+- Are there any particular sub-categories that, while having high sales, might have low-profit margins, indicating a need for pricing or cost review?
+
 ---
 
 <h3>D. Trend & Seasonality Analysis</h3>
 
----
+<br>
 
-<h3>E. Filter Impact Analysis</h3>
+<b>Business Question(s)</b>
 
----
-
-<h3>F. Root Cause Analysis</h3>
+- How do sales trends vary month-over-month and year-over-year? Are there any seasonal patterns or significant spikes/drops in sales?
 
 ---
