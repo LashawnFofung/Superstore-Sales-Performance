@@ -4,6 +4,8 @@
 
 <h3>Table of Contents</h3>
 
+Report artifacts can be found:
+
 - [1. Data Source]()
 - [2. Executive Summary]()
 - [3. Background]()
@@ -21,3 +23,8 @@
 - [9. SQL Queries]()
 
 ---
+
+<h3>Technologies Used:</h3>
+-Tableau Public/Tableau Desktop: For data visualization and dashboard creation.
+-Microsoft Excel(.xls): Source data file (`superstore.xls`)
+-MySQL: 
