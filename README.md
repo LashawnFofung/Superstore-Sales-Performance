@@ -9,7 +9,7 @@ Report artifacts can be found:
 - [1. Data Source](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Data_Source)
 - [2. Executive Summary](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Executive%20Summary)
 - [3. Background](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Background)
-- [4. Analysis]()
+- [4. Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis)
   -  [A. Key Performance Indicators (KPIs) Analysis]()
   -  [B. Segment/Regional Analysis]()
   -  [C. Product.Category Analysis]()
