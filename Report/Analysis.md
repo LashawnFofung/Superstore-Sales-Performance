@@ -14,7 +14,7 @@
 
 ---
 
-<h2>4. Analysis</h2>
+<h2>Analysis</h2>
 
 <h3>A. Key Performance Indicators (KPIs) Analysis</h3>
 
