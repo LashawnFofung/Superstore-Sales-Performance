@@ -39,24 +39,24 @@ with the X-axis formatted as "MMM YY." Tooltips show Month-Year and sales value 
 
 <b>Questions</b>
 
-- 1. What are the overal total sales, profit, and volume for the Superstore?
-- 1. What is the average sales amount per customer, and how does this metric differ across various customer segments or ship modes?
+-  What are the overal total sales, profit, and volume for the Superstore?
+-  What is the average sales amount per customer, and how does this metric differ across various customer segments or ship modes?
      
 ---
 
 <h3>B. Segment Regional Analysis</h3>
 
-- 1. Which regions contribute the most to total sales, and what is their percentage share of the overall sales pie?
-
-- 1. Are there any regions that are underperforming in terms of sales, and why might that be the case?
-
-- 1. What are the top 'N' performing states by sales, and how does changing 'N' reveal different insights about geographical sales concentration?
-
-- 1. How do different customer segments (e.g., Consumer, Corporate, Home Office) contribute to overall sales and profit?
-
-- 1. Does the choice of shipping mode impact sales or profit margins?
-
-- 1. Can we identify specific states or regions that are consistently profitable versus those that are consistently less profitable, despite high sales volume?
+  -  Which regions contribute the most to total sales, and what is their percentage share of the overall sales pie?
+  
+  -  Are there any regions that are underperforming in terms of sales, and why might that be the case?
+  
+  -  What are the top 'N' performing states by sales, and how does changing 'N' reveal different insights about geographical sales concentration?
+  
+  -  How do different customer segments (e.g., Consumer, Corporate, Home Office) contribute to overall sales and profit?
+  
+  -  Does the choice of shipping mode impact sales or profit margins?
+  
+  -  Can we identify specific states or regions that are consistently profitable versus those that are consistently less profitable, despite high sales volume?
 
 ---
 
