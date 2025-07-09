@@ -18,6 +18,23 @@
 
 <h3>A. Key Performance Indicators (KPIs) Analysis</h3>
 
+The dashboard incorporates several key visualizations to provide a holistic view of the Superstore's sales performance:
+
+- <b>Total Sales:</b> Displays the total sales in thousands, with a specific color code of "#76b7b2" and disabled tooltips.
+- <b>Total Profit:</b> Similar to Total Sales, showing total profit in thousands with the same formatting requirements.
+- <b>Total Volume:</b> Presents the total volume (quantity) of sales, formatted similarly to sales and profit but not as a currency.
+- <b>Sales Per Customer:</b> Shows the average sales per customer.
+- <b>Sales by Region:</b> Illustrates the percentage of total sales by region, using the Summer
+Color Palette with black borders. Tooltips display region name, percent of total sales, and total sales
+in thousands.
+- <b>Top N States by Sales:</b> A horizontal bar chart showing the top N states by sales, with 'N'
+controlled by a user-adjustable parameter. Bars are sorted in descending order and display labels in
+dollars.
+- <b>Sales by Sub-Category:</b> Visualizes sales by sub-category, with bubbles colored by
+category. Tooltips show sub-category and sales value in thousands.
+- <b>Sales Trend by Month-Year:</b> A continuous line chart displaying sales trends over time,
+with the X-axis formatted as "MMM YY." Tooltips show Month-Year and sales value in thousands.
+
 <br>
 
 <h3>B. Segment Regional Analysis</h3>
