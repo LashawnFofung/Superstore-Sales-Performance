@@ -30,7 +30,7 @@ Case Study report artifacts can be found:
 
 <h3>Other Project Documents</h3>
 
-- [10. Project Management Plan](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/Plan/Project%20Management%20Plan.md)
+- [Project Management Plan](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/Plan/Project%20Management%20Plan.md)
   - [WBS Overview & Project Timeline](https://youtu.be/OZ4AcESy-8I)
   - [WBS (Export from Smartsheet)](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/WBS/Superstore_Sale_Performance_Dashboard_WBS.xlsx)
 
