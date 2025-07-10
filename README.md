@@ -28,10 +28,10 @@ Report artifacts can be found:
 - [8. Tableau Public Dashboard]()
 - [9. SQL Queries]()
 - [10. Project Management]
--   [Plan](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/Plan/Project%20Management%20Plan.md)
--   WBS
-  -   [Overview Presentation](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/WBS/Superstore_Sale_Performance_Dashboard_WBS.xlsx)
-  -   [WBS Excel file]()
+  -   [Plan](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/Plan/Project%20Management%20Plan.md)
+  -   WBS
+    -   [Overview of Project's WBS & Timeline](https://youtu.be/OZ4AcESy-8I)
+    -   [WBS Excel file](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/WBS/Superstore_Sale_Performance_Dashboard_WBS.xlsx)
 
 ---
 
