@@ -10,9 +10,9 @@ This repository contains the Tableau workbook (.twbx) for the "Superstore Sales 
 
 ---
 
-<h3>Case Study Table of Contents</h3>
+<h3>Table of Contents</h3>
 
-Report artifacts can be found:
+Case Study report artifacts can be found:
 
 - [1. Data Source](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Data_Source.md)
 - [2. Executive Summary](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Executive%20Summary.md)
@@ -27,6 +27,9 @@ Report artifacts can be found:
 - [7. Conclusion](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Conclusion.md)
 - [8. Tableau Public Dashboard]()
 - [9. SQL Queries]()
+
+<h3>Other Project Documents</h3>
+
 - [10. Project Management Plan](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/Plan/Project%20Management%20Plan.md)
   - [WBS Overview & Project Timeline](https://youtu.be/OZ4AcESy-8I)
   - [WBS (Export from Smartsheet)](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/WBS/Superstore_Sale_Performance_Dashboard_WBS.xlsx)
