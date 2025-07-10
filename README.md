@@ -29,7 +29,7 @@ Report artifacts can be found:
 - [9. SQL Queries]()
 - [10. Project Management Plan](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/Plan/Project%20Management%20Plan.md)
   - [WBS Overview & Project Timeline](https://youtu.be/OZ4AcESy-8I)
-  - [WBS Excel file](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/WBS/Superstore_Sale_Performance_Dashboard_WBS.xlsx)
+  - [WBS (Export from Smartsheet)l file](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/WBS/Superstore_Sale_Performance_Dashboard_WBS.xlsx)
 
 ---
 
