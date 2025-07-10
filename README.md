@@ -10,7 +10,7 @@ This repository contains the Tableau workbook (.twbx) for the "Superstore Sales 
 
 ---
 
-<h3>Table of Contents</h3>
+<h3>Case Study Table of Contents</h3>
 
 Report artifacts can be found:
 
