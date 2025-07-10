@@ -14,17 +14,17 @@ This repository contains the Tableau workbook (.twbx) for the "Superstore Sales 
 
 Case Study report artifacts can be found:
 
-- [1. Data Source](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Data_Source.md)
-- [2. Executive Summary](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Executive%20Summary.md)
-- [3. Background](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Background.md)
-- [4. Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md)
-  -  [A. Key Performance Indicators (KPIs) Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#a-key-performance-indicators-kpis-analysis)
-  -  [B. Segment/Regional Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#b-segment-regional-analysis)
-  -  [C. Product.Category Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#c-product-category-analysis)
-  -  [D. Trend & Seasonality Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#d-trend--seasonality-analysis)
-- [5. Alternatives](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Alternatives.md)
-- [6. Recommendations](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Recommendations.md)
-- [7. Conclusion](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Conclusion.md)
+- [1. Data Source]()
+- [2. Executive Summary]()
+- [3. Background]()
+- [4. Analysis]()
+  -  [A. Key Performance Indicators (KPIs) Analysis]()
+  -  [B. Segment/Regional Analysis]()
+  -  [C. Product.Category Analysis]()
+  -  [D. Trend & Seasonality Analysis]()
+- [5. Alternatives]()
+- [6. Recommendations]()
+- [7. Conclusion]()
 - [8. Tableau Public Dashboard]()
 - [9. SQL Queries]()
 
