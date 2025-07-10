@@ -24,9 +24,10 @@ Report artifacts can be found:
   -  [D. Trend & Seasonality Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Analysis.md#d-trend--seasonality-analysis)
 - [5. Alternatives](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Alternatives.md)
 - [6. Recommendations](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Recommendations.md)
-- [7.Conclusion](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Conclusion.md)
+- [7. Conclusion](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Report/Conclusion.md)
 - [8. Tableau Public Dashboard]()
 - [9. SQL Queries]()
+- [10. Project Management]()
 
 ---
 
