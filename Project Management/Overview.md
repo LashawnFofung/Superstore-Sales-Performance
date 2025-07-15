@@ -8,7 +8,7 @@ For the Superstore Sales Performance Dashboard project, your GitHub repository s
 
 - [Project Management Plan]()
 - [Overview of Project's WBS & Timeline](https://youtu.be/t5fny7NXkSs)
-- [WBS]()
+- [WBS](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Project%20Management/WBS/Superstore_Sale_Performance_Dashboard_WBS.xlsx)
   
 
 
