@@ -15,7 +15,7 @@ This repository contains the Tableau workbook (.twbx) for the "Superstore Sales 
 Case Study report artifacts can be found:
 
 - [1. Data Source]()
-- [2. Executive Summary]()
+- [2. Executive Summary](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/Executive%20Summary.md)
 - [3. Background]()
 - [4. Analysis]()
   -  [A. Key Performance Indicators (KPIs) Analysis]()
