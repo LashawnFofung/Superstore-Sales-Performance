@@ -84,6 +84,10 @@ It is observed that customers utilizing "Standard Class" shipping contribute sig
 <b>Business Question(s)</b>
 
 -  What are the overal total sales, profit, and volume for the Superstore?
+  - Total Sales: $2,297,200.86
+  - Total Profit: $286,397.02
+  - Total Volume (Quantity Sold): 37,873 units   
+
 -  What is the average sales amount per customer, and how does this metric differ across various customer segments or ship modes?
 
 ---
