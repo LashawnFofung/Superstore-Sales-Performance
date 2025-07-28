@@ -17,7 +17,9 @@ To gain a comprehensive understanding of Superstore Inc.'s operational performan
 The dashboard incorporates several key visualizations to provide a holistic view of the Superstore's sales performance:
 
 - <b>Total Sales:</b> Displays the total sales in thousands, with a specific color code of "#76b7b2" and disabled tooltips.
+-    The company generated a total sales revenue of $2,297,200.86 across all transactions. This figure represents the aggregate income before any deductions, indicating the overall market demand for Superstore Inc.'s products.
 - <b>Total Profit:</b> Similar to Total Sales, showing total profit in thousands with the same formatting requirements.
+-   From these sales, Superstore Inc. achieved a total profit of $286,397.0. This critical metric reflects the company's financial success after accounting for costs, demonstrating its ability to convert sales into actual earnings.
 - <b>Total Volume:</b> Presents the total volume (quantity) of sales, formatted similarly to sales and profit but not as a currency.
 - <b>Sales Per Customer:</b> Shows the average sales per customer.
 - <b>Sales by Region:</b> Illustrates the percentage of total sales by region, using the Summer
