@@ -22,11 +22,25 @@ The dashboard incorporates several key visualizations to provide a holistic view
 - <b>Total Profit:</b> Similar to Total Sales, showing total profit in thousands with the same formatting requirements.
   - From these sales, Superstore Inc. achieved a total profit of $286,397.0. This critical metric reflects the company's financial success after accounting for costs, demonstrating its ability to convert sales into actual earnings.
 
+- <b>Overall Profit Ratio:</b> The overall profit ratio stands at 12.47%. This percentage indicates that for every dollar of sales, Superstore Inc. retains approximately 12.47 cents as profit. This ratio is vital for assessing the efficiency of the company's pricing strategies and cost management.
+
 - <b>Total Volume:</b> Presents the total volume (quantity) of sales, formatted similarly to sales and profit but not as a currency.
+  - Total Volume (Quantity Sold): A total of 37,873 units of products were sold. This metric provides insight into the sheer scale of product movement and customer demand.
+
 - <b>Sales Per Customer:</b> Shows the average sales per customer.
+  - Average Sales Per Customer: On average, each unique customer contributes $2,896.85 in sales to Superstore Inc. This KPI helps in understanding the value of individual customer relationships.
+  - Sales Per Customer by Segment:
+
+    - Corporate: $2,992.15
+    - Home Office: $2,903.06
+    - Consumer: $2,839.61
+
+  This breakdown reveals that Corporate customers, on average, generate slightly higher sales per customer compared to Home Office and Consumer segments, suggesting    potential for focused strategies on this segment.
+
 - <b>Sales by Region:</b> Illustrates the percentage of total sales by region, using the Summer
 Color Palette with black borders. Tooltips display region name, percent of total sales, and total sales
 in thousands.
+
 - <b>Top N States by Sales:</b> A horizontal bar chart showing the top N states by sales, with 'N'
 controlled by a user-adjustable parameter. Bars are sorted in descending order and display labels in
 dollars.
