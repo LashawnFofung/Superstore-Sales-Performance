@@ -7,3 +7,6 @@ This case study outlines the development of a Tableau dashboard designed to anal
 
 ---
 
+Problem Statement:
+Superstore Inc. is experiencing fluctuating profitability and inconsistent sales performance across its various operational dimensions, including geographic regions, product categories, and customer segments. The leadership team seeks to gain a deeper understanding of the factors driving these trends, identify areas of underperformance, and formulate data-driven strategies to enhance overall business profitability and sales effectiveness.
+
