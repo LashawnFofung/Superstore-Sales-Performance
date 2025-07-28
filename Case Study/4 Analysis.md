@@ -77,8 +77,7 @@ It is observed that customers utilizing "Standard Class" shipping contribute sig
   - Analyzing the sales trend over time provides insight into seasonal patterns and overall growth trajectory:
 
     - Highest Sales Month: November 2021 recorded the highest sales at $118K. This peak likely aligns with holiday shopping seasons or major promotional events.
-
-  Lowest Sales Month: April 2018 saw the lowest sales at $28K. Identifying consistent low-performing months can help in planning targeted marketing campaigns or inventory adjustments during these periods.
+    - Lowest Sales Month: April 2018 saw the lowest sales at $28K. Identifying consistent low-performing months can help in planning targeted marketing campaigns or inventory adjustments during these periods.
 
 <br>
 
