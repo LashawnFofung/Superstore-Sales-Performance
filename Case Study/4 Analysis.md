@@ -36,8 +36,7 @@ The dashboard incorporates several key visualizations to provide a holistic view
 
   This breakdown reveals that Corporate customers, on average, generate slightly higher sales per customer compared to Home Office and Consumer segments, suggesting    potential for focused strategies on this segment.
 
-- <b>Sales by Region:</b> Illustrates the percentage of total sales by region, using the Summer
-Color Palette with black borders. Tooltips display region name, percent of total sales, and total sales
+- <b>Sales by Region:</b> Illustrates the percentage of total sales by region, using the Summer Color Palette with black borders. Tooltips display region name, percent of total sales, and total sales
 in thousands.
   -  Standard Class: $1,754.80
   -  Second Class: $834.90
@@ -46,9 +45,7 @@ in thousands.
 
 It is observed that customers utilizing "Standard Class" shipping contribute significantly more in sales per customer than those using expedited options. This could imply that larger or more complex orders, often associated with higher sales values, tend to use standard shipping, or it may point to differences in customer behavior across shipping preferences.
 
-- <b>Top N States by Sales:</b> A horizontal bar chart showing the top N states by sales, with 'N'
-controlled by a user-adjustable parameter. Bars are sorted in descending order and display labels in
-dollars.
+- <b>Top N States by Sales:</b> A horizontal bar chart showing the top N states by sales, with 'N' controlled by a user-adjustable parameter. Bars are sorted in descending order and display labels in dollars.
   - The concentration of sales varies significantly across different regions, with the top 10 states by sales contributing a substantial portion of the overall revenue:
 
   - California: $457,687.63
@@ -74,11 +71,14 @@ dollars.
   California and New York are clearly the strongest markets in terms of sales. A deeper analysis into the profitability of these top states, especially Texas, Pennsylvania, Ohio, and Illinois, which are known to have significant discount rates, is warranted to ensure sales volume translates into healthy profit margins.
 
 
-- <b>Sales by Sub-Category:</b> Visualizes sales by sub-category, with bubbles colored by
-category. Tooltips show sub-category and sales value in thousands.
+- <b>Sales by Sub-Category:</b> Visualizes sales by sub-category, with bubbles colored by category. Tooltips show sub-category and sales value in thousands.
 
-- <b>Sales Trend by Month-Year:</b> A continuous line chart displaying sales trends over time,
-with the X-axis formatted as "MMM YY." Tooltips show Month-Year and sales value in thousands.
+- <b>Sales Trend by Month-Year:</b> A continuous line chart displaying sales trends over time, with the X-axis formatted as "MMM YY." Tooltips show Month-Year and sales value in thousands.
+  - Analyzing the sales trend over time provides insight into seasonal patterns and overall growth trajectory:
+
+    - Highest Sales Month: November 2021 recorded the highest sales at $${118K}$. This peak likely aligns with holiday shopping seasons or major promotional events.
+
+  Lowest Sales Month: April 2018 saw the lowest sales at $${28K}$. Identifying consistent low-performing months can help in planning targeted marketing campaigns or inventory adjustments during these periods.
 
 <br>
 
