@@ -5,10 +5,10 @@
 <h3>Table of Contents</h3>
 
 <b>4. Analysis</b>
-  -  [A. Key Performance Indicators (KPIs) Analysis]()
-  -  [B. Segment/Regional Analysis]()
-  -  [C. Product.Category Analysis]()
-  -  [D. Trend & Seasonality Analysis]()
+  -  [A. Key Performance Indicators (KPIs) Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/Analysis.md#a-key-performance-indicators-kpis-analysis)
+  -  [B. Segment/Regional Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/Analysis.md#b-segment-regional-analysis)
+  -  [C. Product.Category Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/Analysis.md#c-product-category-analysis)
+  -  [D. Trend & Seasonality Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/Analysis.md#d-trend--seasonality-analysis)
     
 ---
 
