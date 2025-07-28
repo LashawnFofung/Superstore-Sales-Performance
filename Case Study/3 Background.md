@@ -33,15 +33,15 @@ Superstore Inc. is experiencing fluctuating profitability and inconsistent sales
 
 This case study, focusing on Superstore Inc. and leveraging the `sample_superstore_orders.xls` aims to achieve the following key objectives:
 
-- Identify Profitability Drivers: To pinpoint the specific products, customer segments, and geographic regions that are significantly contributing to or detracting from Superstore Inc.'s overall profitability.
+- <b>Identify Profitability Drivers:</b> To pinpoint the specific products, customer segments, and geographic regions that are significantly contributing to or detracting from Superstore Inc.'s overall profitability.
 
-- Uncover Performance Discrepancies: To analyze variances in sales and profit performance across different operational dimensions, such as product categories, shipping modes, and customer segments, to understand where the company is excelling and where it is struggling.
+- <b>Uncover Performance Discrepancies:</b> To analyze variances in sales and profit performance across different operational dimensions, such as product categories, shipping modes, and customer segments, to understand where the company is excelling and where it is struggling.
 
-- Evaluate Regional Performance: To evaluate the sales and profit performance of each region, considering the insights from `sample_superstore_orders.xls` regarding regional management, and identify areas requiring targeted intervention or resource allocation.
+- <b>Evaluate Regional Performance:</b> To evaluate the sales and profit performance of each region, considering the insights from `sample_superstore_orders.xls` regarding regional management, and identify areas requiring targeted intervention or resource allocation.
 
-- Formulate Actionable Recommendations: To translate data-driven insights into clear, practical, and actionable recommendations for Superstore Inc.'s management, enabling them to optimize sales strategies, refine pricing policies, improve operational efficiency, and ultimately enhance overall financial performance.
+- <b>Formulate Actionable Recommendations:</b> To translate data-driven insights into clear, practical, and actionable recommendations for Superstore Inc.'s management, enabling them to optimize sales strategies, refine pricing policies, improve operational efficiency, and ultimately enhance overall financial performance.
 
-- Demonstrate Data Visualization Proficiency: To effectively communicate complex data insights through intuitive and interactive visualizations, particularly utilizing Tableau Desktop, thereby providing a robust tool for ongoing business monitoring and strategic decision-making.
+- <b>Demonstrate Data Visualization Proficiency:</b> To effectively communicate complex data insights through intuitive and interactive visualizations, particularly utilizing Tableau Desktop, thereby providing a robust tool for ongoing business monitoring and strategic decision-making.
 
 ---
 
