@@ -1,6 +1,8 @@
-<h2>Case Study: Supestore Sales Performance Analysis</h2>
+<h2>Case Study: Optimizing Profitability and Sales Performance for Superstore Inc.</h2>
 
 <h3>Overview:</h3>
+
+This case study utilizes the Tableau Superstore dataset (`superstore.xls`), drawing insights to address critical business challenges faced by a retail company.
 
 <b><i>Superstore Sales Performance Dashboard</b></i>
 
