@@ -31,13 +31,13 @@ Superstore Inc. is experiencing fluctuating profitability and inconsistent sales
 
 <h3>Objectives</h3>
 
-This case study, focusing on Superstore Inc. and leveraging the 'sample_superstore_orders.xls' aims to achieve the following key objectives:
+This case study, focusing on Superstore Inc. and leveraging the `sample_superstore_orders.xls` aims to achieve the following key objectives:
 
 - Identify Profitability Drivers: To pinpoint the specific products, customer segments, and geographic regions that are significantly contributing to or detracting from Superstore Inc.'s overall profitability.
 
 - Uncover Performance Discrepancies: To analyze variances in sales and profit performance across different operational dimensions, such as product categories, shipping modes, and customer segments, to understand where the company is excelling and where it is struggling.
 
-- Evaluate Regional Performance: To evaluate the sales and profit performance of each region, considering the insights from 'sample_superstore_orders.xls' regarding regional management, and identify areas requiring targeted intervention or resource allocation.
+- Evaluate Regional Performance: To evaluate the sales and profit performance of each region, considering the insights from `sample_superstore_orders.xls` regarding regional management, and identify areas requiring targeted intervention or resource allocation.
 
 - Formulate Actionable Recommendations: To translate data-driven insights into clear, practical, and actionable recommendations for Superstore Inc.'s management, enabling them to optimize sales strategies, refine pricing policies, improve operational efficiency, and ultimately enhance overall financial performance.
 
