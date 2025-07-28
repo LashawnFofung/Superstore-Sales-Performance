@@ -10,6 +10,8 @@
 
 <h2>Analysis</h2>
 
+To gain a comprehensive understanding of Superstore Inc.'s operational performance and financial health, several key performance indicators (KPIs) were analyzed using the `sample_superstore_orders.xls` dataset. These metrics provide crucial insights into sales effectiveness, profitability, and customer engagement.
+     
 <h3>A. Key Performance Indicators (KPIs) Analysis</h3>
 
 The dashboard incorporates several key visualizations to provide a holistic view of the Superstore's sales performance:
@@ -35,7 +37,7 @@ with the X-axis formatted as "MMM YY." Tooltips show Month-Year and sales value 
 
 -  What are the overal total sales, profit, and volume for the Superstore?
 -  What is the average sales amount per customer, and how does this metric differ across various customer segments or ship modes?
-     
+
 ---
 
 <h3>B. Segment Regional Analysis</h3>
