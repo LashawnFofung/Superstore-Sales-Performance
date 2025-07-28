@@ -25,7 +25,7 @@ Case Study report artifacts can be found:
 - [5. Alternatives]()
 - [6. Recommendations]()
 - [7. Conclusion]()
-- [8. Tableau Public Dashboard]()
+- [8. Tableau Public Dashboard](https://public.tableau.com/views/superstore_sales_performance/SalesDashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [9. SQL Queries]()
 
 <h3>Other Project Documents</h3>
