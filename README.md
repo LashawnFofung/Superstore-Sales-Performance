@@ -15,16 +15,16 @@ This repository contains the Tableau workbook (.twbx) for the "Superstore Sales 
 Case Study report artifacts can be found:
 
 - [1. Data Source](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/1%20Data_Source.md)
-- [2. Executive Summary]()
-- [3. Background]()
-- [4. Analysis]()
+- [2. Executive Summary](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/2%20Executive%20Summary.md)
+- [3. Background](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/3%20Background.md)
+- [4. Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/4%20Analysis.md)
   -  [A. Key Performance Indicators (KPIs) Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/Analysis.md#a-key-performance-indicators-kpis-analysis)
   -  [B. Segment/Regional Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/Analysis.md#b-segment-regional-analysis)
   -  [C. Product.Category Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/Analysis.md#c-product-category-analysis)
   -  [D. Trend & Seasonality Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/Analysis.md#d-trend--seasonality-analysis)
-- [5. Alternatives]()
-- [6. Recommendations]()
-- [7. Conclusion]()
+- [5. Alternatives](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/5%20Alternatives.md)
+- [6. Recommendations](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/6%20Recommendations.md)
+- [7. Conclusion](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/7%20Conclusion.md)
 - [8. Tableau Public Dashboard](https://public.tableau.com/views/superstore_sales_performance/SalesDashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [9. SQL Queries]()
 
