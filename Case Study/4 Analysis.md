@@ -34,7 +34,7 @@ The dashboard incorporates several key visualizations to provide a holistic view
     - <b>Home Office:</b> $2,903.06
     - <b>Consumer:</b> $2,839.61
 
-  This breakdown reveals that Corporate customers, on average, generate slightly higher sales per customer compared to Home Office and Consumer segments, suggesting    potential for focused strategies on this segment.
+    This breakdown reveals that Corporate customers, on average, generate slightly higher sales per customer compared to Home Office and Consumer segments, suggesting    potential for focused strategies on this segment.
 
 - <b>Sales by Region:</b> Illustrates the percentage of total sales by region, using the Summer Color Palette with black borders. Tooltips display region name, percent of total sales, and total sales
 in thousands.
@@ -43,7 +43,7 @@ in thousands.
   -  <b>First Class:</b> $711.39
   -  <b>Same Day:</b> $565.48
 
-It is observed that customers utilizing "Standard Class" shipping contribute significantly more in sales per customer than those using expedited options. This could imply that larger or more complex orders, often associated with higher sales values, tend to use standard shipping, or it may point to differences in customer behavior across shipping preferences.
+  It is observed that customers utilizing "Standard Class" shipping contribute significantly more in sales per customer than those using expedited options. This could imply that larger or more complex orders, often associated with higher sales values, tend to use standard shipping, or it may point to differences in customer behavior across shipping preferences.
 
 - <b>Top N States by Sales:</b> A horizontal bar chart showing the top N states by sales, with 'N' controlled by a user-adjustable parameter. Bars are sorted in descending order and display labels in dollars.
   - The concentration of sales varies significantly across different regions, with the top 10 states by sales contributing a substantial portion of the overall revenue:
