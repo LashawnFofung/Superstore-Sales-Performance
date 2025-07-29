@@ -115,7 +115,7 @@ in thousands.
 -  What is the average sales amount per customer, and how does this metric differ across various customer segments or ship modes?
     - The overall average sales amount per customer is $2,896.85.
     
-    - <b>Across Customer Segments:</b> Corporate customers have the highest average sales per customer ($2,992.15),followed by Home Office ($2,903.06), and then Consumer ($2,839.61).
+    - <b>Across Customer Segments:</b> Corporate customers have the highest average sales per customer ($2,992.15), followed by Home Office ($2,903.06), and then Consumer ($2,839.61).
     
     - <b>Across Ship Modes:</b> Customers opting for "Standard Class" shipping have a significantly higher average sales amount per customer ($1,754.80) compared to other modes like First Class ($711.39), Second Class ($834.90), and Same Day ($565.48). This suggests that larger orders, or customers making bulk purchases, might prefer or qualify for standard shipping options. 
 
