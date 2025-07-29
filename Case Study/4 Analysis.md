@@ -128,6 +128,19 @@ in thousands.
 <b>Business Question(s)</b>
 
   -  Which regions contribute the most to total sales, and what is their percentage share of the overall sales pie?
+    - The geographic distribution of sales reveals distinct contributions from each of Superstore Inc.'s regions:
+
+      - West: $$725,457.82$ (31.58% of total sales)
+      
+      - East: $$678,781.24$ (29.55% of total sales)
+      
+      - Central: $$501,239.89$ (21.82% of total sales)
+      
+      - South: $$391,721.91$ (17.05% of total sales)
+      
+      The West and East regions are the primary revenue drivers for Superstore Inc., collectively accounting for over 60% of total sales. The Central and South regions, while contributing significantly, represent smaller portions of the overall sales pie.
+
+ 
   
   -  Are there any regions that are underperforming in terms of sales, and why might that be the case?
   
