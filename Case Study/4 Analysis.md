@@ -364,7 +364,7 @@ in thousands.
         
             Storage also falls into the high sales, relatively low-profit margin category. While positive, its profit ratio indicates room for improvement to align with higher-performing sub-categories.
         
-        These findings underscore the importance of not just looking at sales volume but also the corresponding profitability. Sub-categories like "Tables," "Bookcases," and "Machines" are actively eroding profit, while "Chairs" and "Storage" represent missed opportunities for higher returns given their sales prominence. Targeted reviews of pricing strategies, supplier costs, and operational efficiencies for these sub-categories are highly recommended.
+    These findings underscore the importance of not just looking at sales volume but also the corresponding profitability. Sub-categories like "Tables," "Bookcases," and "Machines" are actively eroding profit, while "Chairs" and "Storage" represent missed opportunities for higher returns given their sales prominence. Targeted reviews of pricing strategies, supplier costs, and operational efficiencies for these sub-categories are highly recommended.
       
 ---
 
