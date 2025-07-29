@@ -200,6 +200,45 @@ in thousands.
 
   
   -  Does the choice of shipping mode impact sales or profit margins?
+    - Yes, the choice of shipping mode does appear to impact both total sales and profit margins:
+
+      - Standard Class:
+        - Total Sales: $$1,358,215.74$
+        - Total Profit: $$164,088.79$
+        - Profit Ratio: 12.08%
+  
+       Standard Class is the most frequently used shipping mode and accounts for the vast majority of both sales and profit. Its profit ratio is slightly below the overall average.
+      
+     - Second Class:
+       - Total Sales: $$459,193.57$
+       - Total Profit: $$57,446.64$
+       - Profit Ratio: 12.51%
+
+      Second Class has a slightly better profit ratio than Standard Class.
+      
+     - First Class:
+        - Total Sales: $$351,428.42$
+        - Total Profit: $$48,969.84$
+        - Profit Ratio: 13.93%
+
+      First Class shipping shows the highest profit ratio among all modes. This could be due to higher per-item profit margins on products that typically use First Class, or perhaps customers willing to pay more for faster delivery also purchase higher-value goods.
+      
+     - Same Day:
+       - Total Sales: $$128,363.12$
+       - Total Profit: $$15,891.76$
+       - Profit Ratio: 12.38%
+
+      Same Day delivery has a profit ratio comparable to Second Class, but its overall sales and profit contribution are the lowest.
+      
+    The data suggests that while Standard Class handles the bulk of the sales volume, First Class shipping is the most profitable mode per dollar of sales. This might indicate that customers prioritizing speed are less price-sensitive or purchase higher-margin items. 
+        
+ 
+  
+  
+  
+  
+  
+  
   
   -  Can we identify specific states or regions that are consistently profitable versus those that are consistently less profitable, despite high sales volume?
 
