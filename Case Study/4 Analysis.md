@@ -325,6 +325,49 @@ in thousands.
 
 - Are there any particular sub-categories that, while having high sales, might have low-profit margins, indicating a need for pricing or cost review?
 
+  Yes, an analysis of sales volume versus profit margins reveals several sub-categories that, despite generating significant sales, struggle with profitability. These are crucial areas for pricing or cost review:
+
+  o	Sub-Categories with High Sales but Low Profit Margins (Profit Ratio < 10%):
+  
+    •	Tables:
+      o	Total Sales: $206,965.53
+      o	Total Profit: $ -17,725.48
+      o	Profit Ratio: -8.56%
+    
+    Tables represent a significant sales volume but are currently operating at a substantial loss. This sub-category demands immediate attention for pricing adjustments, cost reduction, or re-evaluation of its strategic importance.
+  
+  •	Bookcases:
+  o	Total Sales: $114,880.00
+  o	Total Profit: $ -3,472.56
+  o	Profit Ratio: -3.02%
+  
+  Similar to Tables, Bookcases are unprofitable despite decent sales. This suggests issues with either high purchase costs, aggressive discounting, or high associated operational/shipping expenses.
+  
+  •	Machines:
+  o	Total Sales: $189,238.63
+  o	Total Profit: $3,384.76
+  o	Profit Ratio: 1.79%
+  
+  Machines generate high sales but yield very minimal profit. The extremely low profit ratio suggests that the current pricing or cost structure is barely covering expenses. This sub-category is a prime candidate for margin improvement initiatives.
+  
+  •	Chairs:
+  o	Total Sales: $328,449.10
+  o	Total Profit: $26,590.17
+  o	Profit Ratio: 8.10%
+  
+  Although Chairs are one of the top-selling sub-categories, their profit ratio (8.10%) is below the overall company average and significantly lower than other profitable sub-categories. This high-volume, relatively low-margin scenario presents a significant opportunity to increase overall company profitability if margins can be improved even slightly.
+  
+  •	Storage:
+  o	Total Sales: $223,843.61
+  o	Total Profit: $21,278.83
+  o	Profit Ratio: 9.51%
+  
+  Storage also falls into the high sales, relatively low-profit margin category. While positive, its profit ratio indicates room for improvement to align with higher-performing sub-categories.
+  
+  These findings underscore the importance of not just looking at sales volume but also the corresponding profitability. Sub-categories like "Tables," "Bookcases," and "Machines" are actively eroding profit, while "Chairs" and "Storage" represent missed opportunities for higher returns given their sales prominence. Targeted reviews of pricing strategies, supplier costs, and operational efficiencies for these sub-categories are highly recommended.
+
+
+
 ---
 
 <h3>D. Trend & Seasonality Analysis</h3>
