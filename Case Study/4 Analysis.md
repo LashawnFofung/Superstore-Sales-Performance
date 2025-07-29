@@ -75,20 +75,22 @@ It is observed that customers utilizing "Standard Class" shipping contribute sig
 
 - <b>Sales Trend by Month-Year:</b> A continuous line chart displaying sales trends over time, with the X-axis formatted as "MMM YY." Tooltips show Month-Year and sales value in thousands.
   - Analyzing the sales trend over time provides insight into seasonal patterns and overall growth trajectory:
-
-    - Highest Sales Month: November 2021 recorded the highest sales at $118K. This peak likely aligns with holiday shopping seasons or major promotional events.
-    - Lowest Sales Month: April 2018 saw the lowest sales at $28K. Identifying consistent low-performing months can help in planning targeted marketing campaigns or inventory adjustments during these periods.
+    - <b>Highest Sales Month:</b> November 2021 recorded the highest sales at $118K. This peak likely aligns with holiday shopping seasons or major promotional events.
+    - <b>Lowest Sales Month:</b> April 2018 saw the lowest sales at $28K. Identifying consistent low-performing months can help in planning targeted marketing campaigns or inventory adjustments during these periods.
 
 <br>
 
 <b>Business Question(s)</b>
 
 -  What are the overal total sales, profit, and volume for the Superstore?
-  - Total Sales: $2,297,200.86
-  - Total Profit: $286,397.02
-  - Total Volume (Quantity Sold): 37,873 units   
+  - <b>Total Sales:</b> $2,297,200.86
+  - <b>Total Profit:</b> $286,397.02
+  - <b>Total Volume (Quantity Sold):</b> 37,873 units   
 
 -  What is the average sales amount per customer, and how does this metric differ across various customer segments or ship modes?
+  - The overall average sales amount per customer is $2,896.85.
+  - <b>Across Customer Segments:</b> Corporate customers have the highest average sales per customer ($${2,992.15}$),followed by Home Office ($2,903.06), and then Consumer ($2,839.61).
+  - <b>Across Ship Modes:</b> Customers opting for "Standard Class" shipping have a significantly higher average sales amount per customer ($1,754.80) compared to other modes like First Class ($711.39), Second Class ($834.90), and Same Day ($565.48). This suggests that larger orders, or customers making bulk purchases, might prefer or qualify for standard shipping options. 
 
 ---
 
