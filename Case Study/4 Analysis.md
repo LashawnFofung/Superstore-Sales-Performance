@@ -129,34 +129,49 @@ in thousands.
 
   -  Which regions contribute the most to total sales, and what is their percentage share of the overall sales pie?
     - The geographic distribution of sales reveals distinct contributions from each of Superstore Inc.'s regions:
-
-      - West: $$725,457.82$ (31.58% of total sales)
+      - <b>West:</b> $$725,457.82$ (31.58% of total sales)
       
-      - East: $$678,781.24$ (29.55% of total sales)
+      - <b>East:</b> $$678,781.24$ (29.55% of total sales)
       
-      - Central: $$501,239.89$ (21.82% of total sales)
+      - <b>Central:</b> $$501,239.89$ (21.82% of total sales)
       
-      - South: $$391,721.91$ (17.05% of total sales)
+      - <b>South:</b> $$391,721.91$ (17.05% of total sales)
       
       The West and East regions are the primary revenue drivers for Superstore Inc., collectively accounting for over 60% of total sales. The Central and South regions, while contributing significantly, represent smaller portions of the overall sales pie.
   
   -  Are there any regions that are underperforming in terms of sales, and why might that be the case?
     -  Based on sales volume, the South and Central regions are comparatively underperforming. The "why" for underperformance is multi-faceted and could stem from:
-
-      - Market Saturation/Competition: Higher competition or a more saturated market in these regions could limit sales growth.
+      - <b>Market Saturation/Competition: Higher competition or a more saturated market in these regions could limit sales growth.
       
-      - Demographics/Economic Factors: Differences in population density, economic conditions, or purchasing power.
+      - <b>Demographics/Economic Factors:</b> Differences in population density, economic conditions, or purchasing power.
       
-      - Operational Inefficiencies: Higher shipping costs, less effective local marketing, or less optimized logistics compared to other regions.
+      - <b>Operational Inefficiencies:</b> Higher shipping costs, less effective local marketing, or less optimized logistics compared to other regions.
       
-      - Product Fit: The product assortment might not be as well-tailored to the specific needs or preferences of customers in these regions.
+      - <b>Product Fit:</b> The product assortment might not be as well-tailored to the specific needs or preferences of customers in these regions.
       
-      - Regional Management Effectiveness: As per the sample_superstore_people.csv, the effectiveness of regional managers and their teams could play a role.
+      - <b>Regional Management Effectiveness:</b> As per the sample_superstore_people.csv, the effectiveness of regional managers and their teams could play a role.
       
       - Further analysis, including profit margins by region, is crucial to determine if low sales are mitigated by higher profitability or if they represent a deeper issue.
 
   
   -  What are the top 'N' performing states by sales, and how does changing 'N' reveal different insights about geographical sales concentration?
+    -  Examining the top 'N' performing states by sales allows for a granular understanding of geographical sales concentration.
+       For instance:
+        - <b>Top 5 States by Sales:</b>
+          - <b>California: $$457,687.63$
+          
+          - <b>New York:</b> $$310,876.27$
+          
+          - <b>Texas:</b> $$170,188.05$
+          
+          - <b>Washington:</b> $$138,641.27$
+          
+          - <b>Pennsylvania:</b> $$116,511.91$
+          
+      As previously noted in the KPI analysis, California and New York are overwhelmingly dominant. Changing 'N' from 5 to 10 (as provided by the user in a previous prompt, including Florida, Illinois, Ohio, Michigan, and Virginia) highlights a broader distribution but still emphasizes the concentration within a relatively small number of states.
+      
+      Insight from changing 'N': A small 'N' (e.g., top 5) reveals the most critical revenue hubs, indicating where the majority of sales efforts might be focused. Increasing 'N' (e.g., top 10, top 20) helps identify the next tier of significant markets, which might represent growth opportunities or states that are important for overall market presence, even if their individual contribution is smaller than the absolute top performers. It also helps to visualize the "long tail" of sales distribution, identifying states with minimal sales that might not warrant significant direct investment.
+
   
   -  How do different customer segments (e.g., Consumer, Corporate, Home Office) contribute to overall sales and profit?
   
