@@ -191,9 +191,10 @@ in thousands.
          The Corporate segment shows a healthier profit ratio compared to Consumers, indicating potentially more efficient sales or higher-margin product purchases within this group.
        
        - <b>Home Office Segment:</b>
-             - <b>Total Sales:</b> $429,653.15
-             - <b>Total Profit:</b> $60,298.68
-             - <b>Profit Ratio:</b> 14.03%
+       
+           - <b>Total Sales:</b> $429,653.15
+           - <b>Total Profit:</b> $60,298.68
+           - <b>Profit Ratio:</b> 14.03%
   
          The Home Office segment, while having the lowest total sales volume, boasts the highest profit ratio. This suggests that sales to home offices are highly efficient or involve products with better margins. This segment might be a key focus for increasing profitability.
 
