@@ -174,6 +174,28 @@ in thousands.
 
   
   -  How do different customer segments (e.g., Consumer, Corporate, Home Office) contribute to overall sales and profit?
+    -  Customer segments show varying contributions to both sales and profit:
+      - Consumer Segment:
+        - Total Sales: $1,161,401.34
+        - Total Profit:$134,119.21
+        - Profit Ratio: 11.55%
+      
+        The Consumer segment drives the highest total sales and profit volume, being the largest customer group. However, its profit ratio is slightly lower than Corporate and Home Office segments.
+      
+     - Corporate Segment:
+       -Total Sales: $706,146.37
+       -Total Profit: $91,979.13
+       -Profit Ratio: 13.03%
+
+       The Corporate segment shows a healthier profit ratio compared to Consumers, indicating potentially more efficient sales or higher-margin product purchases within this group.
+      
+     - Home Office Segment:
+       - Total Sales: $429,653.15
+       - Total Profit: $60,298.68
+       - Profit Ratio: 14.03%
+  
+       The Home Office segment, while having the lowest total sales volume, boasts the highest profit ratio. This suggests that sales to home offices are highly efficient or involve products with better margins. This segment might be a key focus for increasing profitability.
+
   
   -  Does the choice of shipping mode impact sales or profit margins?
   
