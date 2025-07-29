@@ -180,21 +180,21 @@ in thousands.
         - <b>Total Profit:</b> $134,119.21
         - <b>Profit Ratio:</b> 11.55%
       
-        The Consumer segment drives the highest total sales and profit volume, being the largest customer group. However, its profit ratio is slightly lower than Corporate and Home Office segments.
-      
-     - <b>Corporate Segment:
+          The Consumer segment drives the highest total sales and profit volume, being the largest customer group. However, its profit ratio is slightly lower than Corporate and Home Office segments.
+          
+     - <b>Corporate Segment:</b>
        -<b>Total Sales:</b> $706,146.37
        -<b>Total Profit:</b> $91,979.13
        -<b>Profit Ratio:</b> 13.03%
 
        The Corporate segment shows a healthier profit ratio compared to Consumers, indicating potentially more efficient sales or higher-margin product purchases within this group.
-      
+       
      - <b>Home Office Segment:</b>
        - <b>Total Sales:</b> $429,653.15
        - <b>Total Profit:</b> $60,298.68
        - <b>Profit Ratio:</b> 14.03%
   
-       The Home Office segment, while having the lowest total sales volume, boasts the highest profit ratio. This suggests that sales to home offices are highly efficient or involve products with better margins. This segment might be a key focus for increasing profitability.
+         The Home Office segment, while having the lowest total sales volume, boasts the highest profit ratio. This suggests that sales to home offices are highly efficient or involve products with better margins. This segment might be a key focus for increasing profitability.
 
   
   -  Does the choice of shipping mode impact sales or profit margins?
