@@ -200,7 +200,8 @@ in thousands.
 
   
   -  Does the choice of shipping mode impact sales or profit margins?
-    - Yes, the choice of shipping mode does appear to impact both total sales and profit margins:
+
+     Yes, the choice of shipping mode does appear to impact both total sales and profit margins:
 
       - <b>Standard Class:</b>
         - <b>Total Sales:</b> $$1,358,215.74$
