@@ -28,45 +28,45 @@ The dashboard incorporates several key visualizations to provide a holistic view
   - Total Volume (Quantity Sold): A total of 37,873 units of products were sold. This metric provides insight into the sheer scale of product movement and customer demand.
 
 - <b>Sales Per Customer:</b> Shows the average sales per customer.
-  - Average Sales Per Customer: On average, each unique customer contributes $2,896.85 in sales to Superstore Inc. This KPI helps in understanding the value of individual customer relationships.
+  - On average, each unique customer contributes $2,896.85 in sales to Superstore Inc. This KPI helps in understanding the value of individual customer relationships.
   - Sales Per Customer by Segment:
-    - Corporate: $2,992.15
-    - Home Office: $2,903.06
-    - Consumer: $2,839.61
+    - <b>Corporate:</b> $2,992.15
+    - <b>Home Office:</b> $2,903.06
+    - <b>Consumer:</b> $2,839.61
 
   This breakdown reveals that Corporate customers, on average, generate slightly higher sales per customer compared to Home Office and Consumer segments, suggesting    potential for focused strategies on this segment.
 
 - <b>Sales by Region:</b> Illustrates the percentage of total sales by region, using the Summer Color Palette with black borders. Tooltips display region name, percent of total sales, and total sales
 in thousands.
-  -  Standard Class: $1,754.80
-  -  Second Class: $834.90
-  -  First Class: $711.39
-  -  Same Day: $565.48
+  -  <b>Standard Class:</b> $1,754.80
+  -  <b>Second Class:</b> $834.90
+  -  <b>First Class:</b> $711.39
+  -  <b>Same Day:</b> $565.48
 
 It is observed that customers utilizing "Standard Class" shipping contribute significantly more in sales per customer than those using expedited options. This could imply that larger or more complex orders, often associated with higher sales values, tend to use standard shipping, or it may point to differences in customer behavior across shipping preferences.
 
 - <b>Top N States by Sales:</b> A horizontal bar chart showing the top N states by sales, with 'N' controlled by a user-adjustable parameter. Bars are sorted in descending order and display labels in dollars.
   - The concentration of sales varies significantly across different regions, with the top 10 states by sales contributing a substantial portion of the overall revenue:
 
-  - California: $457,687.63
+  - <b>California:</b> $457,687.63
   
-  - New York: $310,876.27
+  - <b>New York:</b> $310,876.27
   
-  - Texas: $170,188.05
+  - <b>Texas:</b> $170,188.05
   
-  - Washington: $138,641.27
+  - <b>Washington:</b> $138,641.27
   
-  - Pennsylvania: $116,511.91
+  - <b>Pennsylvania:</b> $116,511.91
   
-  - Florida: $89,473.71
+  - <b>Florida:</b> $89,473.71
   
-  - Illinois: $80,166.10
+  - <b>Illinois:</b> $80,166.10
   
-  - Ohio: $78,258.14
+  - <b>Ohio:</b> $78,258.14
   
-  - Michigan: $76,269.61
+  - <b>Michigan:</b> $76,269.61
   
-  - Virginia: $70,636.72
+  - <b>Virginia:</b> $70,636.72
   
   California and New York are clearly the strongest markets in terms of sales. A deeper analysis into the profitability of these top states, especially Texas, Pennsylvania, Ohio, and Illinois, which are known to have significant discount rates, is warranted to ensure sales volume translates into healthy profit margins.
 
