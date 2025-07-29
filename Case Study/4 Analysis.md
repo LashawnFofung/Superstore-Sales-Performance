@@ -283,9 +283,9 @@ in thousands.
 
   - Which sub-categories generate the highest sales, and how does this vary across different product categories?
 
-    - The product portfolio shows varying sales contributions across categories and their respective sub-categories.
+    The product portfolio shows varying sales contributions across categories and their respective sub-categories.
 
-      <b>Overall Top 10 Sub-Categories by Sales:</b>
+      - <b>Overall Top 10 Sub-Categories by Sales:</b>
   
       The highest sales are concentrated in Technology and Furniture, with Office Supplies also having a strong presence.
         
@@ -311,11 +311,11 @@ in thousands.
         
     - <b>Top Sub-Category within each Product Category:</b>
         
-       - <b>Technology:</b> Phones lead with $330,007.05 in sales.
+       - <b>Technology:</b> `Phones` lead with $330,007.05 in sales.
         
-       - <b>Furniture:</b> Chairs are the top performers with $328,449.10 in sales.
+       - <b>Furniture:</b> `Chairs` are the top performers with $328,449.10 in sales.
         
-       - <b>Office Supplies:</b> Storage is the highest-selling sub-category at $223,843.61.
+       - <b>Office Supplies:</b> `Storage` is the highest-selling sub-category at $223,843.61.
   
       This variation highlights that each major product category has its own dominant sub-category. While "Phones" and "Chairs" are the two highest-grossing sub-categories overall, "Storage" is the powerhouse within Office Supplies. This indicates that sales strategies should be tailored to the specific dynamics of each category's top performers.
 
