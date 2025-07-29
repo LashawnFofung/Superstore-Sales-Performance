@@ -281,7 +281,47 @@ in thousands.
 
 <b>Business Question(s)</b>
 
-- Which sub-categories generate the highest sales, and how does this vary across different product categories?
+  - Which sub-categories generate the highest sales, and how does this vary across different product categories?
+
+    - The product portfolio shows varying sales contributions across categories and their respective sub-categories.
+
+      <b>Overall Top 10 Sub-Categories by Sales:</b>
+  
+      The highest sales are concentrated in Technology and Furniture, with Office Supplies also having a strong presence.
+        
+       - <b>Technology - Phones:</b> $330,007.05
+        
+       - <b>Furniture - Chairs:</b> $328,449.10
+        
+       - <b>Office Supplies - Storage:</b> $223,843.61
+        
+       - <b>Furniture - Tables:</b> $206,965.53
+        
+       - <b>Office Supplies - Binders:</b> $203,412.73
+        
+       - <b>Technology - Machines:</b> $189,238.63
+        
+       - <b>Technology - Accessories:</b> $167,380.32
+        
+       - <b>Technology - Copiers:</b> $149,528.03
+        
+       - <b>Furniture - Bookcases:</b> $114,880.00
+        
+       - <b>Office Supplies - Appliances:</b> $107,532.16
+        
+    - <b>Top Sub-Category within each Product Category:</b>
+        
+       - <b>Technology:</b> Phones lead with $330,007.05 in sales.
+        
+       - <b>Furniture:</b> Chairs are the top performers with $328,449.10 in sales.
+        
+       - <b>Office Supplies:</b> Storage is the highest-selling sub-category at $223,843.61.
+  
+      This variation highlights that each major product category has its own dominant sub-category. While "Phones" and "Chairs" are the two highest-grossing sub-categories overall, "Storage" is the powerhouse within Office Supplies. This indicates that sales strategies should be tailored to the specific dynamics of each category's top performers.
+
+
+
+
 
 - Are there any particular sub-categories that, while having high sales, might have low-profit margins, indicating a need for pricing or cost review?
 
