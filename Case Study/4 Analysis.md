@@ -230,7 +230,7 @@ in thousands.
 
       Same Day delivery has a profit ratio comparable to Second Class, but its overall sales and profit contribution are the lowest.
       
-    The data suggests that while Standard Class handles the bulk of the sales volume, First Class shipping is the most profitable mode per dollar of sales. This might indicate that customers prioritizing speed are less price-sensitive or purchase higher-margin items. 
+  The data suggests that while Standard Class handles the bulk of the sales volume, First Class shipping is the most profitable mode per dollar of sales. This might indicate that customers prioritizing speed are less price-sensitive or purchase higher-margin items. 
         
  
   
