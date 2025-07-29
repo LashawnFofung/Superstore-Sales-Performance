@@ -48,26 +48,26 @@ It is observed that customers utilizing "Standard Class" shipping contribute sig
 - <b>Top N States by Sales:</b> A horizontal bar chart showing the top N states by sales, with 'N' controlled by a user-adjustable parameter. Bars are sorted in descending order and display labels in dollars.
   - The concentration of sales varies significantly across different regions, with the top 10 states by sales contributing a substantial portion of the overall revenue:
 
-  - <b>California:</b> $457,687.63
-  
-  - <b>New York:</b> $310,876.27
-  
-  - <b>Texas:</b> $170,188.05
-  
-  - <b>Washington:</b> $138,641.27
-  
-  - <b>Pennsylvania:</b> $116,511.91
-  
-  - <b>Florida:</b> $89,473.71
-  
-  - <b>Illinois:</b> $80,166.10
-  
-  - <b>Ohio:</b> $78,258.14
-  
-  - <b>Michigan:</b> $76,269.61
-  
-  - <b>Virginia:</b> $70,636.72
-  
+    - <b>California:</b> $457,687.63
+    
+    - <b>New York:</b> $310,876.27
+    
+    - <b>Texas:</b> $170,188.05
+    
+    - <b>Washington:</b> $138,641.27
+    
+    - <b>Pennsylvania:</b> $116,511.91
+    
+    - <b>Florida:</b> $89,473.71
+    
+    - <b>Illinois:</b> $80,166.10
+    
+    - <b>Ohio:</b> $78,258.14
+    
+    - <b>Michigan:</b> $76,269.61
+    
+    - <b>Virginia:</b> $70,636.72
+    
   California and New York are clearly the strongest markets in terms of sales. A deeper analysis into the profitability of these top states, especially Texas, Pennsylvania, Ohio, and Illinois, which are known to have significant discount rates, is warranted to ensure sales volume translates into healthy profit margins.
 
 
