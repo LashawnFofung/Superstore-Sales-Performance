@@ -77,13 +77,13 @@ It is observed that customers utilizing "Standard Class" shipping contribute sig
     - Technology (Phones): This sub-category leads in sales with a remarkable $330,007.05. Phones represent a significant revenue driver, highlighting the importance of the Technology category to the company's top line.
     - Furniture (Chairs): Following closely, the "Chairs" sub-category within Furniture achieved $328,449.10 in sales. This indicates robust performance within the Furniture segment, likely driven by both individual and corporate customers.
 
-  - These top-performing sub-categories demonstrate significant market capture and should be continually supported through effective inventory management, competitive pricing, and targeted promotional activities.
+    These top-performing sub-categories demonstrate significant market capture and should be continually supported through effective inventory management, competitive pricing, and targeted promotional activities.
 
-- Lowest Performing Sub-Categories by Sales:
-  - Conversely, several sub-categories within "Office Supplies" show significantly lower sales figures, indicating areas that may require strategic reassessment:
-    - Office Supplies (Fasteners): This sub-category recorded the lowest sales at just $3,024.28.
-    - Office Supplies (Labels): Sales for Labels were $12,486.31.
-    - Office Supplies (Envelopes): This sub-category generated $16,476.40 in sales.
+  - Lowest Performing Sub-Categories by Sales:
+    - Conversely, several sub-categories within "Office Supplies" show significantly lower sales figures, indicating areas that may require strategic reassessment:
+      - Office Supplies (Fasteners): This sub-category recorded the lowest sales at just $3,024.28.
+      - Office Supplies (Labels): Sales for Labels were $12,486.31.
+      - Office Supplies (Envelopes): This sub-category generated $16,476.40 in sales.
 
 - <b>Sales Trend by Month-Year:</b> A continuous line chart displaying sales trends over time, with the X-axis formatted as "MMM YY." Tooltips show Month-Year and sales value in thousands.
   - Analyzing the sales trend over time provides insight into seasonal patterns and overall growth trajectory:
