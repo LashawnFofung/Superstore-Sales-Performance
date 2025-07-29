@@ -2,7 +2,7 @@
 
 <b> Analysis</b>
   -  [A. Key Performance Indicators (KPIs) Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/4%20Analysis.md#a-key-performance-indicators-kpis-analysis)
-  -  [B. Segment/Regional Analysis]()
+  -  [B. Segment/Regional Analysis](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/4%20Analysis.md#b-segment-regional-analysis)
   -  [C. Product Category Analysis]()
   -  [D. Trend & Seasonality Analysis]()
     
