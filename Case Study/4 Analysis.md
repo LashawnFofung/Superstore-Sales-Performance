@@ -229,8 +229,8 @@ in thousands.
        - <b>Profit Ratio:</b> 12.38%
 
       Same Day delivery has a profit ratio comparable to Second Class, but its overall sales and profit contribution are the lowest.
-      
-    The data suggests that while Standard Class handles the bulk of the sales volume, First Class shipping is the most profitable mode per dollar of sales. This might indicate that customers prioritizing speed are less price-sensitive or purchase higher-margin items. 
+
+      The data suggests that while Standard Class handles the bulk of the sales volume, First Class shipping is the most profitable mode per dollar of sales. This might indicate that customers prioritizing speed are less price-sensitive or purchase higher-margin items. 
         
  
   
@@ -260,19 +260,19 @@ in thousands.
 
          - These states demonstrate both strong sales volume and healthy profit margins, representing successful market operations.
         
-          - Indiana: Total Sales: $$53,555.36$, Total Profit: $$18,382.94$, Profit Ratio: 34.33%
-            
-          - Georgia: Total Sales: $$49,095.84$, Total Profit: $$16,250.04$, Profit Ratio: 33.10%
-            
-          - Michigan: Total Sales: $$76,269.61$, Total Profit: $$24,463.19$, Profit Ratio: 32.07%
-            
-          - Virginia: Total Sales: $$70,636.72$, Total Profit: $$18,597.95$, Profit Ratio: 26.33%
-            
-          - Washington: Total Sales: $$138,641.27$, Total Profit: $$33,402.65$, Profit Ratio: 24.09%
-            
-          - New York: Total Sales: $$310,876.27$, Total Profit: $$74,038.55$, Profit Ratio: 23.82%
-            
-          - California: Total Sales: $$457,687.63$, Total Profit: $$76,381.39$, Profit Ratio: 16.69%
+            - Indiana: Total Sales: $$53,555.36$, Total Profit: $$18,382.94$, Profit Ratio: 34.33%
+              
+            - Georgia: Total Sales: $$49,095.84$, Total Profit: $$16,250.04$, Profit Ratio: 33.10%
+              
+            - Michigan: Total Sales: $$76,269.61$, Total Profit: $$24,463.19$, Profit Ratio: 32.07%
+              
+            - Virginia: Total Sales: $$70,636.72$, Total Profit: $$18,597.95$, Profit Ratio: 26.33%
+              
+            - Washington: Total Sales: $$138,641.27$, Total Profit: $$33,402.65$, Profit Ratio: 24.09%
+              
+            - New York: Total Sales: $$310,876.27$, Total Profit: $$74,038.55$, Profit Ratio: 23.82%
+              
+            - California: Total Sales: $$457,687.63$, Total Profit: $$76,381.39$, Profit Ratio: 16.69%
             
         States like California, New York, Washington, Michigan, Indiana, Georgia, and Virginia are strong performers, demonstrating that high sales can indeed translate into significant profits. Their strategies and operational efficiencies should be studied for best practices that can potentially be replicated in underperforming regions. 
 
