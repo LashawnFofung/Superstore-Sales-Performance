@@ -183,6 +183,7 @@ in thousands.
           The Consumer segment drives the highest total sales and profit volume, being the largest customer group. However, its profit ratio is slightly lower than Corporate and Home Office segments.
           
      - <b>Corporate Segment:</b>
+     
        -<b>Total Sales:</b> $706,146.37
        -<b>Total Profit:</b> $91,979.13
        -<b>Profit Ratio:</b> 13.03%
