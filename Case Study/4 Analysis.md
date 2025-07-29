@@ -257,8 +257,8 @@ in thousands.
           States like Texas, Ohio, Pennsylvania, Illinois, North Carolina, and Florida are critical areas for intervention. Despite their relatively high sales volumes (some even in the top 10 for sales), their substantial negative profit margins suggest severe problems, likely due to aggressive discounting, high shipping costs, or a disproportionate number of returns in these areas.
         
       <b>Consistently Profitable States (High Sales, High Profit Ratio):</b>
-
-          - These states demonstrate both strong sales volume and healthy profit margins, representing successful market operations.
+        
+        - These states demonstrate both strong sales volume and healthy profit margins, representing successful market operations.
             - Indiana: Total Sales: $$53,555.36$, Total Profit: $$18,382.94$, Profit Ratio: 34.33% 
             - Georgia: Total Sales: $$49,095.84$, Total Profit: $$16,250.04$, Profit Ratio: 33.10%  
             - Michigan: Total Sales: $$76,269.61$, Total Profit: $$24,463.19$, Profit Ratio: 32.07% 
