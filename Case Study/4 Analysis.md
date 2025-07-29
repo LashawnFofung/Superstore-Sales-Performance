@@ -72,21 +72,21 @@ It is observed that customers utilizing "Standard Class" shipping contribute sig
 
 
 - <b>Sales by Sub-Category:</b> Visualizes sales by sub-category, with bubbles colored by category. Tooltips show sub-category and sales value in thousands.
-  - Top Performing Sub-Categories by Sales:
-    - The analysis reveals that sales are highly concentrated within a few key sub-categories, indicating strong customer demand and market penetration in these areas:
-    - Technology (Phones): This sub-category leads in sales with a remarkable $330,007.05. Phones represent a significant revenue driver, highlighting the importance of the Technology category to the company's top line.
-    - Furniture (Chairs): Following closely, the "Chairs" sub-category within Furniture achieved $328,449.10 in sales. This indicates robust performance within the Furniture segment, likely driven by both individual and corporate customers.
+  - <b>Top Performing Sub-Categories by Sales:</b>
+    The analysis reveals that sales are highly concentrated within a few key sub-categories, indicating strong customer demand and market penetration in these areas:
+    - <b>Technology (Phones):</b> This sub-category leads in sales with a remarkable $330,007.05. Phones represent a significant revenue driver, highlighting the importance of the Technology category to the company's top line.
+    - <b>Furniture (Chairs):</b> Following closely, the "Chairs" sub-category within Furniture achieved $328,449.10 in sales. This indicates robust performance within the Furniture segment, likely driven by both individual and corporate customers.
 
     These top-performing sub-categories demonstrate significant market capture and should be continually supported through effective inventory management, competitive pricing, and targeted promotional activities.
 
-  - Lowest Performing Sub-Categories by Sales:
-    - Conversely, several sub-categories within "Office Supplies" show significantly lower sales figures, indicating areas that may require strategic reassessment:
-      - Office Supplies (Fasteners): This sub-category recorded the lowest sales at just $3,024.28.
-      - Office Supplies (Labels): Sales for Labels were $12,486.31.
-      - Office Supplies (Envelopes): This sub-category generated $16,476.40 in sales.
+  - <b>Lowest Performing Sub-Categories by Sales:</b>
+    Conversely, several sub-categories within "Office Supplies" show significantly lower sales figures, indicating areas that may require strategic reassessment:
+      - <b>Office Supplies (Fasteners):</b> This sub-category recorded the lowest sales at just $3,024.28.
+      - <b>Office Supplies (Labels):</b> Sales for Labels were $12,486.31.
+      - <b>Office Supplies (Envelopes):</b> This sub-category generated $16,476.40 in sales.
 
 - <b>Sales Trend by Month-Year:</b> A continuous line chart displaying sales trends over time, with the X-axis formatted as "MMM YY." Tooltips show Month-Year and sales value in thousands.
-  - Analyzing the sales trend over time provides insight into seasonal patterns and overall growth trajectory:
+  Analyzing the sales trend over time provides insight into seasonal patterns and overall growth trajectory:
     - <b>Highest Sales Month:</b> November 2021 recorded the highest sales at $118K. This peak likely aligns with holiday shopping seasons or major promotional events.
     - <b>Lowest Sales Month:</b> April 2018 saw the lowest sales at $28K. Identifying consistent low-performing months can help in planning targeted marketing campaigns or inventory adjustments during these periods.
 
