@@ -141,7 +141,7 @@ in thousands.
   
   -  Are there any regions that are underperforming in terms of sales, and why might that be the case?
     -  Based on sales volume, the South and Central regions are comparatively underperforming. The "why" for underperformance is multi-faceted and could stem from:
-      - <b>Market Saturation/Competition: Higher competition or a more saturated market in these regions could limit sales growth.
+      - <b>Market Saturation/Competition:</b> Higher competition or a more saturated market in these regions could limit sales growth.
       
       - <b>Demographics/Economic Factors:</b> Differences in population density, economic conditions, or purchasing power.
       
