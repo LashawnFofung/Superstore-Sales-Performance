@@ -107,7 +107,7 @@ in thousands.
 
 <b>Business Question(s)</b>
 
--  What are the overal total sales, profit, and volume for the Superstore?
+-  What are the overall total sales, profit, and volume for the Superstore?
     - <b>Total Sales:</b> $2,297,200.86
     - <b>Total Profit:</b> $286,397.02
     - <b>Total Volume (Quantity Sold):</b> 37,873 units   
