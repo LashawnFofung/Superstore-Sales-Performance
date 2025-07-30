@@ -16,7 +16,8 @@ The primary recommendation for Superstore Inc. is to Implement a comprehensive s
         - <b>Responsible:</b> Operations, Supply Chain, Finance
 
   -	<b>Phase 2:</b> Pilot and Rollout (Q2 - 3 months)
-     - <b>Step 1:</b> Pilot new pricing strategies and cost-reduction measures in selected underperforming states.              - <b>Responsible:</b> Sales Teams in pilot states, Product Managers
+     - <b>Step 1:</b> Pilot new pricing strategies and cost-reduction measures in selected underperforming states.
+         - <b>Responsible:</b> Sales Teams in pilot states, Product Managers
      -	<b>Step 2:</b> Monitor sales volume and profit margins closely during the pilot.
          -	<b>Responsible:</b> Business Intelligence, Finance
      -	<b>Step 3:</b> Refine strategies based on pilot results for full rollout.
