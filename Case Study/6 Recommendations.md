@@ -9,26 +9,26 @@ The primary recommendation for Superstore Inc. is to Implement a comprehensive s
 <b>Implementation Plan:</b>
  - <b>Phase 1:</b> Data Deep Dive & Strategy Formulation (Q1 - 1 month)
     -	<b>Step 1:</b> Conduct in-depth cost-benefit analysis for Tables, Bookcases, Machines, Chairs, and Storage to identify profitability issues.
-     -	<b>Responsible</b>: Finance, Product Management
+      -	<b>Responsible</b>: Finance, Product Management
     -	<b>Step 2:</b> Develop revised pricing models and discount guidelines.
-     -	<b>Responsible:</b> Sales & Marketing, Product Management, Finance
+      -	<b>Responsible:</b> Sales & Marketing, Product Management, Finance
     - <b>Step 3:</b> Analyze operational costs in Texas, Ohio, Pennsylvania, Illinois, North Carolina, and Floridafor cost reduction opportunities.
-     - <b>Responsible:</b> Operations, Supply Chain, Finance
+      - <b>Responsible:</b> Operations, Supply Chain, Finance
 
   -	<b>Phase 2:</b> Pilot and Rollout (Q2 - 3 months)
-    - <b>Step 1:</b> Pilot new pricing strategies and cost-reduction measures in selected underperforming states.          - <b>Responsible:</b> Sales Teams in pilot states, Product Managers
+    - <b>Step 1:</b> Pilot new pricing strategies and cost-reduction measures in selected underperforming states.            - <b>Responsible:</b> Sales Teams in pilot states, Product Managers
     -	<b>Step 2:</b> Monitor sales volume and profit margins closely during the pilot.
-     -	<b>Responsible:</b> Business Intelligence, Finance
+      -	<b>Responsible:</b> Business Intelligence, Finance
     -	<b>Step 3:</b> Refine strategies based on pilot results for full rollout.
-     -	<b>Responsible:</b> Executive Leadership, Regional Managers
+      -	<b>Responsible:</b> Executive Leadership, Regional Managers
 
   -	<b>Phase 3:</b> Continuous Monitoring & Optimization (Ongoing)
     -	<b>Step 1:</b> Implement revised strategies across all relevant underperforming states.
-     -	<b>Responsible:</b> Regional Sales Teams, Operations
+      -	<b>Responsible:</b> Regional Sales Teams, Operations
     -	<b>Step 2:</b> Establish monthly performance reviews for targeted sub-categories and states.
-     -	<b>Responsible:</b> Regional Managers, Finance, Senior Leadership
+      -	<b>Responsible:</b> Regional Managers, Finance, Senior Leadership
     -	<b>Step 3:</b> Continuously optimize based on market conditions.
-     -	<b>Responsible:</b> All departments involved
+      -	<b>Responsible:</b> All departments involved
 
 <b>Expected Outcomes:</b>
   -	<b>Profit Improvement:</b> Anticipated 10-15% increase in overall profit margin for targeted sub-categories within 6-9 months.
