@@ -394,11 +394,12 @@ in thousands.
 
        	  The monthly sales data, aggregated across all years, highlights distinct seasonal patterns:
 
-       	    -	<b>Peak Sales Months:</b> Sales consistently surge in the latter part of the year, with November ($352,461.07) and December ($325,293.50) showing the highest figures. September ($307,649.95) also performs exceptionally well. This strong performance towards the end of the year is a clear indication of holiday season impact and possibly back-to-school or end-of-year corporate purchasing.
+       	  -	<b>Peak Sales Months:</b> Sales consistently surge in the latter part of the year, with November ($352,461.07) and December ($325,293.50) showing the highest figures. September ($307,649.95) also performs exceptionally well. This strong performance towards the end of the year is a clear indication of holiday season impact and possibly back-to-school or end-of-year corporate purchasing.
                 
-            -	<b>Trough Sales Months:</b> Conversely, February ($59,751.25) and January ($94,924.84) consistently record the lowest sales. This aligns with a typical post-holiday slowdown. April also shows relatively lower sales compared to surrounding months.
+          -	<b>Trough Sales Months:</b> Conversely, February ($59,751.25) and January ($94,924.84) consistently record the lowest sales. This aligns with a typical post-holiday slowdown. April also shows relatively lower sales compared to surrounding months.
                 
-            - <b>Mid-Year Stability:</b> Months from May to August generally show moderate and relatively stable sales, without significant spikes or drops, after the spring dip and before the autumn surge.
+          - <b>Mid-Year Stability:</b> Months from May to August generally show moderate and relatively stable sales, without significant spikes or drops, after the spring dip and before the autumn surge.
+            
               
      -	<b>Significant Spikes and Drops (from Month-Year Trend):</b>
     
