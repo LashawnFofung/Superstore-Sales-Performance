@@ -3,7 +3,7 @@
 
 <h3>Background</h3>
 
-Superstore Inc. operates as a large retail company with a diverse product portfolio spanning across Furniture, Office Supplies, and Technology categories. The company serves a wide customer base segmented into Consumer, Corporate, and Home Office across multiple regions within the United States. Its operations involve managing a complex network of sales, shipments, and customer interactions, with orders being processed and fulfilled through various ship modes like Standard Class, Second Class, First Class, and Same Day.
+Superstore Inc. operates as a large retail company with a diverse product portfolio spanning across <b>Furniture, Office Supplies, and Technology</b> categories. The company serves a wide customer base segmented into <b>Consumer, Corporate, and Home Office</b> across multiple regions within the United States. Its operations involve managing a complex network of sales, shipments, and customer interactions, with orders being processed and fulfilled through various <b>ship modes</b> like Standard-Class, Second-Class, First-Class, and Same Day.
 
 Over its operational history, Superstore Inc. has accumulated a rich transactional dataset, detailing individual orders, customer information, product specifics, sales figures, quantities sold, discount rates applied, and corresponding profit margins. Additionally, the company tracks returned orders and maintains a record of its regional management structure.
 
@@ -13,11 +13,11 @@ While Superstore Inc. has established a significant market presence, recent obse
 
 <h3>Company Overview</h3>
 
-Superstore Inc. is a prominent retail entity operating across the United States. The company specializes in a diverse range of products, broadly categorized into Furniture, Office Supplies, and Technology.
+Superstore Inc. is a prominent retail entity operating across the United States. The company specializes in a diverse range of products, broadly categorized into <b>Furniture, Office Supplies, and Technology</b>.
 
-Superstore Inc. serves a varied customer base, which is strategically segmented into three primary groups: Consumers, Corporate clients, and Home Offices. This segmentation allows the company to tailor its sales and marketing efforts to the distinct needs and purchasing behaviors of each group.
+Superstore Inc. serves a varied customer base, which is strategically segmented into three primary groups: <b>Consumers, Corporate clients, and Home Offices</b>. This segmentation allows the company to tailor its sales and marketing efforts to the distinct needs and purchasing behaviors of each group.
 
-The company's logistical operations are supported by various shipping modes, including Standard Class, Second Class, First Class, and Same Day delivery, ensuring product distribution to customers nationwide. Superstore Inc. maintains a structured operational framework, which includes a system for tracking product returns and a dedicated team of regional managers overseeing performance across different geographic regions.
+The company's logistical operations are supported by various <b>shipping modes</b>, including Standard-Class, Second-Class, First-Class, and Same-Day delivery, ensuring product distribution to customers nationwide. Superstore Inc. maintains a structured operational framework, which includes a system for tracking product returns and a dedicated team of regional managers overseeing performance across different geographic regions.
 
 Through its extensive sales and distribution network, Superstore Inc. continually gathers comprehensive transactional data, which forms the basis for analyzing its market performance, profitability, and customer engagement.
 
