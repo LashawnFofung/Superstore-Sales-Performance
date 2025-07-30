@@ -393,7 +393,8 @@ in thousands.
       -	<b>Month-over-Month Sales Trend and Seasonal Patterns:</b>
 
        	  The monthly sales data, aggregated across all years, highlights distinct seasonal patterns:
-            -	<b>Peak Sales Months:</b> Sales consistently surge in the latter part of the year, with November ($352,461.07) and December ($325,293.50) showing the highest figures. September ($307,649.95) also performs exceptionally well. This strong performance towards the end of the year is a clear indication of holiday season impact and possibly back-to-school or end-of-year corporate purchasing.
+
+       	    -	<b>Peak Sales Months:</b> Sales consistently surge in the latter part of the year, with November ($352,461.07) and December ($325,293.50) showing the highest figures. September ($307,649.95) also performs exceptionally well. This strong performance towards the end of the year is a clear indication of holiday season impact and possibly back-to-school or end-of-year corporate purchasing.
                 
             -	<b>Trough Sales Months:</b> Conversely, February ($59,751.25) and January ($94,924.84) consistently record the lowest sales. This aligns with a typical post-holiday slowdown. April also shows relatively lower sales compared to surrounding months.
                 
@@ -401,10 +402,10 @@ in thousands.
               
      -	<b>Significant Spikes and Drops (from Month-Year Trend):</b>
     
-            Examining the Sales Trend by Month-Year provides a more granular view of specific performance:
+           Examining the Sales Trend by Month-Year provides a more granular view of specific performance:
       
-             -	<b>Highest Sales Spike:</b> November 2021 stands out with the highest single-month sales at $118,447.82. This confirms the peak season's strong influence and suggests particularly successful campaigns or high demand in that period.
-             -	<b>Lowest Sales Drop:</b> The lowest sales month observed is February 2018 with $4,519.89, which is significantly lower than the overall monthly average. While February generally has low sales, this specific month represents an extreme trough. The overall April sales were noted as lowest in the previous KPI analysis at $28K (April 2018).
+           -	<b>Highest Sales Spike:</b> November 2021 stands out with the highest single-month sales at $118,447.82. This confirms the peak season's strong influence and suggests particularly successful campaigns or high demand in that period.
+           -	<b>Lowest Sales Drop:</b> The lowest sales month observed is February 2018 with $4,519.89, which is significantly lower than the overall monthly average. While February generally has low sales, this specific month represents an extreme trough. The overall April sales were noted as lowest in the previous KPI analysis at $28K (April 2018).
     
     -	<b>Summary of Sales Trends:</b>
     
