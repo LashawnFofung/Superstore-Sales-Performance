@@ -7,7 +7,7 @@
 The primary recommendation for Superstore Inc. is to Implement a comprehensive strategy to optimize pricing and product mix for low-profit, high-sales sub-categories, combined with targeted profitability initiatives in underperforming states. This integrated approach offers the most direct and substantial path to improving the company's financial health by addressing the most significant profit drains at both the product and geographical levels.
 
 <b>Implementation Plan:</b>
-  - <b>Phase 1:</b> Data Deep Dive & Strategy Formulation (Q1 - 1 month)
+  - <b>Phase 1: Data Deep Dive & Strategy Formulation (Q1 - 1 month)</b>
      -	<b>Step 1:</b> Conduct in-depth cost-benefit analysis for Tables, Bookcases, Machines, Chairs, and Storage to identify profitability issues.
         -	<b>Responsible</b>: Finance, Product Management
      -	<b>Step 2:</b> Develop revised pricing models and discount guidelines.
@@ -15,7 +15,7 @@ The primary recommendation for Superstore Inc. is to Implement a comprehensive s
      - <b>Step 3:</b> Analyze operational costs in Texas, Ohio, Pennsylvania, Illinois, North Carolina, and Floridafor cost reduction opportunities.
         - <b>Responsible:</b> Operations, Supply Chain, Finance
 
-  -	<b>Phase 2:</b> Pilot and Rollout (Q2 - 3 months)
+  -	<b>Phase 2: Pilot and Rollout (Q2 - 3 months)</b>
      - <b>Step 1:</b> Pilot new pricing strategies and cost-reduction measures in selected underperforming states.
          - <b>Responsible:</b> Sales Teams in pilot states, Product Managers
      -	<b>Step 2:</b> Monitor sales volume and profit margins closely during the pilot.
@@ -23,7 +23,7 @@ The primary recommendation for Superstore Inc. is to Implement a comprehensive s
      -	<b>Step 3:</b> Refine strategies based on pilot results for full rollout.
          -	<b>Responsible:</b> Executive Leadership, Regional Managers
 
-  -	<b>Phase 3:</b> Continuous Monitoring & Optimization (Ongoing)
+  -	<b>Phase 3: Continuous Monitoring & Optimization (Ongoing)</b>
     -	<b>Step 1:</b> Implement revised strategies across all relevant underperforming states.
          -	<b>Responsible:</b> Regional Sales Teams, Operations
     -	<b>Step 2:</b> Establish monthly performance reviews for targeted sub-categories and states.
