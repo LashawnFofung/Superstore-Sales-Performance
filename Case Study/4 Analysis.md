@@ -374,42 +374,42 @@ in thousands.
 
 <b>Business Question(s)</b>
 
-- How do sales trends vary month-over-month and year-over-year? Are there any seasonal patterns or significant spikes/drops in sales?
+  - How do sales trends vary month-over-month and year-over-year? Are there any seasonal patterns or significant spikes/drops in sales?
 
     Analyzing sales data over time reveals clear trends and significant seasonal patterns for Superstore Inc.
 
       -	<b>Year-over-Year Sales Trend:</b>
 
-            - <b>2018:</b> $484,247.50
+        - <b>2018:</b> $484,247.50
           
-            -	<b>2019:</b> $470,532.51
+        -	<b>2019:</b> $470,532.51
           
-            -	<b>2020:</b> $609,205.60
+        -	<b>2020:</b> $609,205.60
           
-            - <b>2021:</b> $733,215.26
+        - <b>2021:</b> $733,215.26
     
-          The yearly sales trend indicates a fluctuating but generally upward trajectory. There was a slight dip in 2019 compared to 2018, but a strong recovery and significant growth in 2020 and 2021. This suggests that the company is experiencing overall growth, especially in recent years.
+        The yearly sales trend indicates a fluctuating but generally upward trajectory. There was a slight dip in 2019 compared to 2018, but a strong recovery and significant growth in 2020 and 2021. This suggests that the company is experiencing overall growth, especially in recent years.
 
-    -	<b>Month-over-Month Sales Trend and Seasonal Patterns:</b>
+      -	<b>Month-over-Month Sales Trend and Seasonal Patterns:</b>
+      
+            The monthly sales data, aggregated across all years, highlights distinct seasonal patterns:
+              -	<b>Peak Sales Months:</b> Sales consistently surge in the latter part of the year, with November ($352,461.07) and December ($325,293.50) showing the highest figures. September ($307,649.95) also performs exceptionally well. This strong performance towards the end of the year is a clear indication of holiday season impact and possibly back-to-school or end-of-year corporate purchasing.
+              
+              -	<b>Trough Sales Months:</b> Conversely, February ($59,751.25) and January ($94,924.84) consistently record the lowest sales. This aligns with a typical post-holiday slowdown. April also shows relatively lower sales compared to surrounding months.
+              
+              - <b>Mid-Year Stability:</b> Months from May to August generally show moderate and relatively stable sales, without significant spikes or drops, after the spring dip and before the autumn surge.
+              
+     -	<b>Significant Spikes and Drops (from Month-Year Trend):</b>
     
-          The monthly sales data, aggregated across all years, highlights distinct seasonal patterns:
-            -	<b>Peak Sales Months:</b> Sales consistently surge in the latter part of the year, with November ($352,461.07) and December ($325,293.50) showing the highest figures. September ($307,649.95) also performs exceptionally well. This strong performance towards the end of the year is a clear indication of holiday season impact and possibly back-to-school or end-of-year corporate purchasing.
-            
-            -	<b>Trough Sales Months:</b> Conversely, February ($59,751.25) and January ($94,924.84) consistently record the lowest sales. This aligns with a typical post-holiday slowdown. April also shows relatively lower sales compared to surrounding months.
-            
-            - <b>Mid-Year Stability:</b> Months from May to August generally show moderate and relatively stable sales, without significant spikes or drops, after the spring dip and before the autumn surge.
-            
-   -	<b>Significant Spikes and Drops (from Month-Year Trend):</b>
+            Examining the Sales Trend by Month-Year provides a more granular view of specific performance:
     
-          Examining the Sales Trend by Month-Year provides a more granular view of specific performance:
-    
-          -	<b>Highest Sales Spike:</b> November 2021 stands out with the highest single-month sales at $118,447.82. This confirms the peak season's strong influence and suggests particularly successful campaigns or high demand in that period.
+            -	<b>Highest Sales Spike:</b> November 2021 stands out with the highest single-month sales at $118,447.82. This confirms the peak season's strong influence and suggests particularly successful campaigns or high demand in that period.
           
-          -	<b>Lowest Sales Drop:</b> The lowest sales month observed is February 2018 with $4,519.89, which is significantly lower than the overall monthly average. While February generally has low sales, this specific month represents an extreme trough. The overall April sales were noted as lowest in the previous KPI analysis at $28K (April 2018).
+            -	<b>Lowest Sales Drop:</b> The lowest sales month observed is February 2018 with $4,519.89, which is significantly lower than the overall monthly average. While February generally has low sales, this specific month represents an extreme trough. The overall April sales were noted as lowest in the previous KPI analysis at $28K (April 2018).
     
-  -	<b>Summary of Sales Trends:</b>
+    -	<b>Summary of Sales Trends:</b>
     
-    Superstore Inc. exhibits a clear seasonal pattern with sales peaking in the last quarter of the year (September-December) and dipping in the first quarter (January-February). This strong seasonality indicates the importance of strategic planning around these periods, including inventory management, marketing campaigns, and staffing adjustments. The overall year-over-year trend shows healthy growth, suggesting effective long-term strategies despite monthly fluctuations. Further investigation into the specific events or campaigns during peak sales months (e.g., Nov 2021) and the reasons for extreme drops in low-performing months could yield actionable insights.
+      Superstore Inc. exhibits a clear seasonal pattern with sales peaking in the last quarter of the year (September-December) and dipping in the first quarter (January-February). This strong seasonality indicates the importance of strategic planning around these periods, including inventory management, marketing campaigns, and staffing adjustments. The overall year-over-year trend shows healthy growth, suggesting effective long-term strategies despite monthly fluctuations. Further investigation into the specific events or campaigns during peak sales months (e.g., Nov 2021) and the reasons for extreme drops in low-performing months could yield actionable insights.
     
     
 
