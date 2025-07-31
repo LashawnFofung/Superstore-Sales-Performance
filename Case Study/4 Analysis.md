@@ -128,7 +128,8 @@ in thousands.
 <b>Business Question(s)</b>
 
   -  Which regions contribute the most to total sales, and what is their percentage share of the overall sales pie?
-    - The geographic distribution of sales reveals distinct contributions from each of Superstore Inc.'s regions:
+
+    The geographic distribution of sales reveals distinct contributions from each of Superstore Inc.'s regions:
       - <b>West:</b> $$725,457.82$ (31.58% of total sales)
       
       - <b>East:</b> $$678,781.24$ (29.55% of total sales)
