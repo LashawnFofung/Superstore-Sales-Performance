@@ -463,9 +463,9 @@ in thousands.
 
 <br>
 
-    -	<b>Summary of Sales Trends:</b>
-    
-      Superstore Inc. exhibits a clear seasonal pattern with sales peaking in the last quarter of the year (September-December) and dipping in the first quarter (January-February). This strong seasonality indicates the importance of strategic planning around these periods, including inventory management, marketing campaigns, and staffing adjustments. The overall year-over-year trend shows healthy growth, suggesting effective long-term strategies despite monthly fluctuations. Further investigation into the specific events or campaigns during peak sales months (e.g., Nov 2021) and the reasons for extreme drops in low-performing months could yield actionable insights.
+  -	<b>Summary of Sales Trends:</b>
+  
+    Superstore Inc. exhibits a clear seasonal pattern with sales peaking in the last quarter of the year (September-December) and dipping in the first quarter (January-February). This strong seasonality indicates the importance of strategic planning around these periods, including inventory management, marketing campaigns, and staffing adjustments. The overall year-over-year trend shows healthy growth, suggesting effective long-term strategies despite monthly fluctuations. Further investigation into the specific events or campaigns during peak sales months (e.g., Nov 2021) and the reasons for extreme drops in low-performing months could yield actionable insights.
     
     
 
