@@ -172,7 +172,7 @@ in thousands.
         Insight from changing 'N': A small 'N' (e.g., top 5) reveals the most critical revenue hubs, indicating where the majority of sales efforts might be focused. Increasing 'N' (e.g., top 10, top 20) helps identify the next tier of significant markets, which might represent growth opportunities or states that are important for overall market presence, even if their individual contribution is smaller than the absolute top performers. It also helps to visualize the "long tail" of sales distribution, identifying states with minimal sales that might not warrant significant direct investment.
 
   
-  -  <b.How do different customer segments (e.g., Consumer, Corporate, Home Office) contribute to overall sales and profit?</b>
+  -  <b>How do different customer segments (e.g., Consumer, Corporate, Home Office) contribute to overall sales and profit?</b>
     -  Customer segments show varying contributions to both sales and profit:
      
         - <b>Consumer Segment:</b>
@@ -207,28 +207,28 @@ in thousands.
         - <b>Total Profit:</b> $164,088.79
         - <b>Profit Ratio:</b> 12.08%
   
-       Standard Class is the most frequently used shipping mode and accounts for the vast majority of both sales and profit. Its profit ratio is slightly below the overall average.
-      
+             Standard Class is the most frequently used shipping mode and accounts for the vast majority of both sales and profit. Its profit ratio is slightly below the overall average.
+            
      - <b>Second Class:</b>
        - <b>Total Sales:</b> $459,193.57
        - <b>Total Profit:</b> $57,446.64
        - <b>Profit Ratio:</b> 12.51%
 
-      Second Class has a slightly better profit ratio than Standard Class.
+            Second Class has a slightly better profit ratio than Standard Class.
       
      - <b>First Class:</b>
         - <b>Total Sales:</b> $351,428.42
         - <b>Total Profit:</b> $48,969.84
         - <b>Profit Ratio:</b> 13.93%
 
-      First Class shipping shows the highest profit ratio among all modes. This could be due to higher per-item profit margins on products that typically use First Class, or perhaps customers willing to pay more for faster delivery also purchase higher-value goods.
+              First Class shipping shows the highest profit ratio among all modes. This could be due to higher per-item profit margins on products that typically use First Class, or perhaps customers willing to pay more for faster delivery also purchase higher-value goods.
       
      - <b>Same Day:</b>
        - <b>Total Sales:</b> $128,363.12
        - <b>Total Profit:</b> $15,891.76
        - <b>Profit Ratio:</b> 12.38%
 
-      Same Day delivery has a profit ratio comparable to Second Class, but its overall sales and profit contribution are the lowest.
+            Same Day delivery has a profit ratio comparable to Second Class, but its overall sales and profit contribution are the lowest.
 
       The data suggests that while Standard Class handles the bulk of the sales volume, First Class shipping is the most profitable mode per dollar of sales. This might indicate that customers prioritizing speed are less price-sensitive or purchase higher-margin items. 
         
