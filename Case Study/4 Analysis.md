@@ -150,7 +150,7 @@ in thousands.
 
   
   -  <b>Are there any regions that are underperforming in terms of sales, and why might that be the case?</b>
-      -  Based on sales volume, the South and Central regions are comparatively underperforming. The "why" for underperformance is multi-faceted and could stem from:
+        Based on sales volume, the South and Central regions are comparatively underperforming. The "why" for underperformance is multi-faceted and could stem from:
         - <b>Market Saturation/Competition:</b> Higher competition or a more saturated market in these regions could limit sales growth.
         
         - <b>Demographics/Economic Factors:</b> Differences in population density, economic conditions, or purchasing power.
@@ -215,35 +215,35 @@ in thousands.
 
      Yes, the choice of shipping mode does appear to impact both total sales and profit margins:
 
-      - <b>Standard Class:</b>
+      - <b>Standard-Class:</b>
         - <b>Total Sales:</b> $1,358,215.74
         - <b>Total Profit:</b> $164,088.79
         - <b>Profit Ratio:</b> 12.08%
   
-             Standard Class is the most frequently used shipping mode and accounts for the vast majority of both sales and profit. Its profit ratio is slightly below the overall average.
+             Standard-Class is the most frequently used shipping mode and accounts for the vast majority of both sales and profit. Its profit ratio is slightly below the overall average.
             
-     - <b>Second Class:</b>
+     - <b>Second-Class:</b>
        - <b>Total Sales:</b> $459,193.57
        - <b>Total Profit:</b> $57,446.64
        - <b>Profit Ratio:</b> 12.51%
 
-            Second Class has a slightly better profit ratio than Standard Class.
+            Second-Class has a slightly better profit ratio than Standard Class.
       
-     - <b>First Class:</b>
+     - <b>First-Class:</b>
         - <b>Total Sales:</b> $351,428.42
         - <b>Total Profit:</b> $48,969.84
         - <b>Profit Ratio:</b> 13.93%
 
-          First Class shipping shows the highest profit ratio among all modes. This could be due to higher per-item profit margins on products that typically use First Class, or perhaps customers willing to pay more for faster delivery also purchase higher-value goods.
+          First-Class shipping shows the highest profit ratio among all modes. This could be due to higher per-item profit margins on products that typically use First-Class, or perhaps customers willing to pay more for faster delivery also purchase higher-value goods.
       
-     - <b>Same Day:</b>
+     - <b>Same-Day:</b>
        - <b>Total Sales:</b> $128,363.12
        - <b>Total Profit:</b> $15,891.76
        - <b>Profit Ratio:</b> 12.38%
 
-            Same Day delivery has a profit ratio comparable to Second Class, but its overall sales and profit contribution are the lowest.
+            Same-Day delivery has a profit ratio comparable to Second-Class, but its overall sales and profit contribution are the lowest.
 
-      The data suggests that while Standard Class handles the bulk of the sales volume, First Class shipping is the most profitable mode per dollar of sales. This might indicate that customers prioritizing speed are less price-sensitive or purchase higher-margin items. 
+      The data suggests that while Standard-Class handles the bulk of the sales volume, First-Class shipping is the most profitable mode per dollar of sales. This might indicate that customers prioritizing speed are less price-sensitive or purchase higher-margin items. 
         
  <br>
   
@@ -326,9 +326,6 @@ in thousands.
               - Profit Ratio: 16.69%
               
           States like California, New York, Washington, Michigan, Indiana, Georgia, and Virginia are strong performers, demonstrating that high sales can indeed translate into significant profits. Their strategies and operational efficiencies should be studied for best practices that can potentially be replicated in underperforming regions. 
-
-
-
 
 ---
 
