@@ -159,11 +159,12 @@ in thousands.
 
      Examining the top 'N' performing states by sales allows for a granular understanding of geographical sales concentration.
 
-         For instance:
+        For instance:
 
-             - <b>Top 5 States by Sales:</b>
+           - <b>Top 5 States by Sales:</b>
+
                  - <b>California:</b> $457,687.63
-                 - <b>New York:</b> $310,876.27
+                 - b>New York:</b> $310,876.27
                  - <b>Texas:</b> $170,188.05
                  - <b>Washington:</b> $138,641.27
                  - <b>Pennsylvania:</b> $116,511.91
@@ -204,29 +205,29 @@ in thousands.
      Yes, the choice of shipping mode does appear to impact both total sales and profit margins:
 
       - <b>Standard Class:</b>
-        - <b>Total Sales:</b> $$1,358,215.74$
-        - <b>Total Profit:</b> $$164,088.79$
+        - <b>Total Sales:</b> $1,358,215.74
+        - <b>Total Profit:</b> $164,088.79
         - <b>Profit Ratio:</b> 12.08%
   
        Standard Class is the most frequently used shipping mode and accounts for the vast majority of both sales and profit. Its profit ratio is slightly below the overall average.
       
      - <b>Second Class:</b>
-       - <b>Total Sales:</b> $$459,193.57$
-       - <b>Total Profit:</b> $$57,446.64$
+       - <b>Total Sales:</b> $459,193.57
+       - <b>Total Profit:</b> $57,446.64
        - <b>Profit Ratio:</b> 12.51%
 
       Second Class has a slightly better profit ratio than Standard Class.
       
      - <b>First Class:</b>
-        - <b>Total Sales:</b> $$351,428.42$
-        - <b>Total Profit:</b> $$48,969.84$
+        - <b>Total Sales:</b> $351,428.42
+        - <b>Total Profit:</b> $48,969.84
         - <b>Profit Ratio:</b> 13.93%
 
       First Class shipping shows the highest profit ratio among all modes. This could be due to higher per-item profit margins on products that typically use First Class, or perhaps customers willing to pay more for faster delivery also purchase higher-value goods.
       
      - <b>Same Day:</b>
-       - <b>Total Sales:</b> $$128,363.12$
-       - <b>Total Profit:</b> $$15,891.76$
+       - <b>Total Sales:</b> $128,363.12
+       - <b>Total Profit:</b> $15,891.76
        - <b>Profit Ratio:</b> 12.38%
 
       Same Day delivery has a profit ratio comparable to Second Class, but its overall sales and profit contribution are the lowest.
@@ -243,30 +244,30 @@ in thousands.
 
         - These states generate significant sales but exhibit alarmingly low or negative profit margins, indicating deep-seated issues that erode profitability.
         
-          - Ohio: Total Sales: $$78,258.14$, Total Profit: $-16,971.38, Profit Ratio: -21.69%
+          - Ohio: Total Sales: $78,258.14, Total Profit: $-16,971.38, Profit Ratio: -21.69%
           
-          - Illinois: Total Sales: $$80,166.10$, Total Profit: $-12,607.89, Profit Ratio: -15.73%
+          - Illinois: Total Sales: $80,166.10, Total Profit: $-12,607.89, Profit Ratio: -15.73%
           
-          - Texas: Total Sales: $$170,188.05$, Total Profit: $-25,729.36, Profit Ratio: -15.12%
+          - Texas: Total Sales: $170,188.05, Total Profit: $-25,729.36, Profit Ratio: -15.12%
           
-          - North Carolina: Total Sales: $$55,603.16$, Total Profit: $-7,490.91, Profit Ratio: -13.47%
+          - North Carolina: Total Sales: $55,603.16, Total Profit: $-7,490.91, Profit Ratio: -13.47%
           
-          - Pennsylvania: Total Sales: $$116,511.91$, Total Profit: $-15,559.96, Profit Ratio: -13.35%
+          - Pennsylvania: Total Sales: $116,511.91, Total Profit: $-15,559.96, Profit Ratio: -13.35%
           
-          - Florida: Total Sales: $$89,473.71$, Total Profit: $-3,399.30, Profit Ratio: -3.80%
+          - Florida: Total Sales: $89,473.71, Total Profit: $-3,399.30, Profit Ratio: -3.80%
           
           States like Texas, Ohio, Pennsylvania, Illinois, North Carolina, and Florida are critical areas for intervention. Despite their relatively high sales volumes (some even in the top 10 for sales), their substantial negative profit margins suggest severe problems, likely due to aggressive discounting, high shipping costs, or a disproportionate number of returns in these areas.
         
       <b>Consistently Profitable States (High Sales, High Profit Ratio):</b>
         
         - These states demonstrate both strong sales volume and healthy profit margins, representing successful market operations.
-            - Indiana: Total Sales: $$53,555.36$, Total Profit: $$18,382.94$, Profit Ratio: 34.33% 
-            - Georgia: Total Sales: $$49,095.84$, Total Profit: $$16,250.04$, Profit Ratio: 33.10%  
-            - Michigan: Total Sales: $$76,269.61$, Total Profit: $$24,463.19$, Profit Ratio: 32.07% 
-            - Virginia: Total Sales: $$70,636.72$, Total Profit: $$18,597.95$, Profit Ratio: 26.33% 
-            - Washington: Total Sales: $$138,641.27$, Total Profit: $$33,402.65$, Profit Ratio: 24.09% 
-            - New York: Total Sales: $$310,876.27$, Total Profit: $$74,038.55$, Profit Ratio: 23.82%  
-            - California: Total Sales: $$457,687.63$, Total Profit: $$76,381.39$, Profit Ratio: 16.69%
+            - Indiana: Total Sales: $53,555.36, Total Profit: $18,382.94, Profit Ratio: 34.33% 
+            - Georgia: Total Sales: $49,095.84, Total Profit: $16,250.04, Profit Ratio: 33.10%  
+            - Michigan: Total Sales: $76,269.61, Total Profit: $24,463.19, Profit Ratio: 32.07% 
+            - Virginia: Total Sales: $70,636.72, Total Profit: $18,597.95, Profit Ratio: 26.33% 
+            - Washington: Total Sales: $138,641.27, Total Profit: $33,402.65, Profit Ratio: 24.09% 
+            - New York: Total Sales: $310,876.27, Total Profit: $74,038.55, Profit Ratio: 23.82%  
+            - California: Total Sales: $457,687.63, Total Profit: $76,381.39, Profit Ratio: 16.69%
               
           States like California, New York, Washington, Michigan, Indiana, Georgia, and Virginia are strong performers, demonstrating that high sales can indeed translate into significant profits. Their strategies and operational efficiencies should be studied for best practices that can potentially be replicated in underperforming regions. 
 
