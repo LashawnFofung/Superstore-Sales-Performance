@@ -149,7 +149,7 @@ in thousands.
       
       - <b>Product Fit:</b> The product assortment might not be as well-tailored to the specific needs or preferences of customers in these regions.
       
-      - <b>Regional Management Effectiveness:</b> As per the sample_superstore_people.csv, the effectiveness of regional managers and their teams could play a role.
+      - <b>Regional Management Effectiveness:</b> As per the `sample_superstore_people.xls`, the effectiveness of regional managers and their teams could play a role.
       
       - Further analysis, including profit margins by region, is crucial to determine if low sales are mitigated by higher profitability or if they represent a deeper issue.
 
