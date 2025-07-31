@@ -159,15 +159,13 @@ in thousands.
 
      Examining the top 'N' performing states by sales allows for a granular understanding of geographical sales concentration.
 
-        For instance:
-
-           - <b>Top 5 States by Sales:</b>
-
-                 - <b>California:</b> $457,687.63
-                 - b>New York:</b> $310,876.27
-                 - <b>Texas:</b> $170,188.05
-                 - <b>Washington:</b> $138,641.27
-                 - <b>Pennsylvania:</b> $116,511.91
+     <b>For instance:</b>
+       - <b>Top 5 States by Sales:</b>
+         - <b>California:</b> $457,687.63
+         - b>New York:</b> $310,876.27
+         - <b>Texas:</b> $170,188.05
+         - <b>Washington:</b> $138,641.27
+         - <b>Pennsylvania:</b> $116,511.91
                   
         As previously noted in the KPI analysis, California and New York are overwhelmingly dominant. Changing 'N' from 5 to 10 (as provided by the user in a previous prompt, including Florida, Illinois, Ohio, Michigan, and Virginia) highlights a broader distribution but still emphasizes the concentration within a relatively small number of states.
               
