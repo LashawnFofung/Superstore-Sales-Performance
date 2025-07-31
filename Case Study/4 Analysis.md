@@ -139,6 +139,9 @@ in thousands.
         - <b>South:</b> $$391,721.91$ (17.05% of total sales)
         
       The West and East regions are the primary revenue drivers for Superstore Inc., collectively accounting for over 60% of total sales. The Central and South regions, while contributing significantly, represent smaller portions of the overall sales pie.
+
+  <br>
+
   
   -  <b>Are there any regions that are underperforming in terms of sales, and why might that be the case?</b>
       -  Based on sales volume, the South and Central regions are comparatively underperforming. The "why" for underperformance is multi-faceted and could stem from:
@@ -171,6 +174,8 @@ in thousands.
               
         Insight from changing 'N': A small 'N' (e.g., top 5) reveals the most critical revenue hubs, indicating where the majority of sales efforts might be focused. Increasing 'N' (e.g., top 10, top 20) helps identify the next tier of significant markets, which might represent growth opportunities or states that are important for overall market presence, even if their individual contribution is smaller than the absolute top performers. It also helps to visualize the "long tail" of sales distribution, identifying states with minimal sales that might not warrant significant direct investment.
 
+  <br>
+
   
   -  <b>How do different customer segments (e.g., Consumer, Corporate, Home Office) contribute to overall sales and profit?</b>
     -  Customer segments show varying contributions to both sales and profit:
@@ -196,6 +201,8 @@ in thousands.
            - <b>Profit Ratio:</b> 14.03%
   
          The Home Office segment, while having the lowest total sales volume, boasts the highest profit ratio. This suggests that sales to home offices are highly efficient or involve products with better margins. This segment might be a key focus for increasing profitability.
+
+  <br>
 
   
   -  <b>Does the choice of shipping mode impact sales or profit margins?</b>
@@ -232,7 +239,7 @@ in thousands.
 
       The data suggests that while Standard Class handles the bulk of the sales volume, First Class shipping is the most profitable mode per dollar of sales. This might indicate that customers prioritizing speed are less price-sensitive or purchase higher-margin items. 
         
- 
+ <br>
   
   -  <b>Can we identify specific states or regions that are consistently profitable versus those that are consistently less profitable, despite high sales volume?</b>
 
@@ -363,8 +370,7 @@ in thousands.
   
       This variation highlights that each major product category has its own dominant sub-category. While "Phones" and "Chairs" are the two highest-grossing sub-categories overall, "Storage" is the powerhouse within Office Supplies. This indicates that sales strategies should be tailored to the specific dynamics of each category's top performers.
 
-
-
+<br>
 
 
 - <b>Are there any particular sub-categories that, while having high sales, might have low-profit margins, indicating a need for pricing or cost review?</b>
@@ -451,7 +457,9 @@ in thousands.
       
            -	<b>Highest Sales Spike:</b> November 2021 stands out with the highest single-month sales at $118,447.82. This confirms the peak season's strong influence and suggests particularly successful campaigns or high demand in that period.
            -	<b>Lowest Sales Drop:</b> The lowest sales month observed is February 2018 with $4,519.89, which is significantly lower than the overall monthly average. While February generally has low sales, this specific month represents an extreme trough. The overall April sales were noted as lowest in the previous KPI analysis at $28K (April 2018).
-    
+
+<br>
+
     -	<b>Summary of Sales Trends:</b>
     
           Superstore Inc. exhibits a clear seasonal pattern with sales peaking in the last quarter of the year (September-December) and dipping in the first quarter (January-February). This strong seasonality indicates the importance of strategic planning around these periods, including inventory management, marketing campaigns, and staffing adjustments. The overall year-over-year trend shows healthy growth, suggesting effective long-term strategies despite monthly fluctuations. Further investigation into the specific events or campaigns during peak sales months (e.g., Nov 2021) and the reasons for extreme drops in low-performing months could yield actionable insights.
