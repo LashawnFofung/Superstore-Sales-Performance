@@ -160,20 +160,18 @@ in thousands.
      Examining the top 'N' performing states by sales allows for a granular understanding of geographical sales concentration.
 
        For instance:
-            - <b>Top 5 States by Sales:</b>
-              - <b>California:</b> $$457,687.63$
-              
-              - <b>New York:</b> $$310,876.27$
-              
-              - <b>Texas:</b> $$170,188.05$
-              
-              - <b>Washington:</b> $$138,641.27$
-              
-              - <b>Pennsylvania:</b> $$116,511.91$
+
+         - <b>Top 5 States by Sales:</b>
+
+           - <b>California:</b> $457,687.63
+             - <b>New York:</b> $310,876.27
+             - <b>Texas:</b> $170,188.05
+             - <b>Washington:</b> $138,641.27
+             - <b>Pennsylvania:</b> $116,511.91
               
       As previously noted in the KPI analysis, California and New York are overwhelmingly dominant. Changing 'N' from 5 to 10 (as provided by the user in a previous prompt, including Florida, Illinois, Ohio, Michigan, and Virginia) highlights a broader distribution but still emphasizes the concentration within a relatively small number of states.
           
-          Insight from changing 'N': A small 'N' (e.g., top 5) reveals the most critical revenue hubs, indicating where the majority of sales efforts might be focused. Increasing 'N' (e.g., top 10, top 20) helps identify the next tier of significant markets, which might represent growth opportunities or states that are important for overall market presence, even if their individual contribution is smaller than the absolute top performers. It also helps to visualize the "long tail" of sales distribution, identifying states with minimal sales that might not warrant significant direct investment.
+    Insight from changing 'N': A small 'N' (e.g., top 5) reveals the most critical revenue hubs, indicating where the majority of sales efforts might be focused. Increasing 'N' (e.g., top 10, top 20) helps identify the next tier of significant markets, which might represent growth opportunities or states that are important for overall market presence, even if their individual contribution is smaller than the absolute top performers. It also helps to visualize the "long tail" of sales distribution, identifying states with minimal sales that might not warrant significant direct investment.
 
   
   -  How do different customer segments (e.g., Consumer, Corporate, Home Office) contribute to overall sales and profit?
