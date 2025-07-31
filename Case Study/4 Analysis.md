@@ -221,7 +221,7 @@ in thousands.
         - <b>Total Profit:</b> $48,969.84
         - <b>Profit Ratio:</b> 13.93%
 
-              First Class shipping shows the highest profit ratio among all modes. This could be due to higher per-item profit margins on products that typically use First Class, or perhaps customers willing to pay more for faster delivery also purchase higher-value goods.
+          First Class shipping shows the highest profit ratio among all modes. This could be due to higher per-item profit margins on products that typically use First Class, or perhaps customers willing to pay more for faster delivery also purchase higher-value goods.
       
      - <b>Same Day:</b>
        - <b>Total Sales:</b> $128,363.12
@@ -242,17 +242,35 @@ in thousands.
 
         - These states generate significant sales but exhibit alarmingly low or negative profit margins, indicating deep-seated issues that erode profitability.
         
-          - Ohio: Total Sales: $78,258.14, Total Profit: $-16,971.38, Profit Ratio: -21.69%
+          - <b>Ohio:</b>
+            - Total Sales: $78,258.14
+            - Total Profit: $-16,971.38
+            - Profit Ratio: -21.69%
           
-          - Illinois: Total Sales: $80,166.10, Total Profit: $-12,607.89, Profit Ratio: -15.73%
+          - <b>Illinois:</b>
+            - Total Sales: $80,166.10
+            - Total Profit: $-12,607.89
+            - Profit Ratio: -15.73%
           
-          - Texas: Total Sales: $170,188.05, Total Profit: $-25,729.36, Profit Ratio: -15.12%
+          - <b>Texas:</b>
+            - Total Sales: $170,188.05
+            - Total Profit: $-25,729.36
+            - Profit Ratio: -15.12%
           
-          - North Carolina: Total Sales: $55,603.16, Total Profit: $-7,490.91, Profit Ratio: -13.47%
+          - <b>North Carolina:</b>
+            - Total Sales: $55,603.16
+            - Total Profit: $-7,490.91
+            - Profit Ratio: -13.47%
           
-          - Pennsylvania: Total Sales: $116,511.91, Total Profit: $-15,559.96, Profit Ratio: -13.35%
+          - <b>Pennsylvania:</b>
+            - Total Sales: $116,511.91
+            - Total Profit: $-15,559.96
+            - Profit Ratio: -13.35%
           
-          - Florida: Total Sales: $89,473.71, Total Profit: $-3,399.30, Profit Ratio: -3.80%
+          - <b>Florida:</b>
+            - Total Sales: $89,473.71
+            - Total Profit: $-3,399.30
+            - Profit Ratio: -3.80%
           
           States like Texas, Ohio, Pennsylvania, Illinois, North Carolina, and Florida are critical areas for intervention. Despite their relatively high sales volumes (some even in the top 10 for sales), their substantial negative profit margins suggest severe problems, likely due to aggressive discounting, high shipping costs, or a disproportionate number of returns in these areas.
         
