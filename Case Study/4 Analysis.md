@@ -112,6 +112,9 @@ in thousands.
     - <b>Total Profit:</b> $286,397.02
     - <b>Total Volume (Quantity Sold):</b> 37,873 units   
 
+<br>
+
+
 -  <b>What is the average sales amount per customer, and how does this metric differ across various customer segments or ship modes?</b>
     - The overall average sales amount per customer is $2,896.85.
     
