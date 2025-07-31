@@ -277,13 +277,40 @@ in thousands.
       <b>Consistently Profitable States (High Sales, High Profit Ratio):</b>
         
         - These states demonstrate both strong sales volume and healthy profit margins, representing successful market operations.
-            - Indiana: Total Sales: $53,555.36, Total Profit: $18,382.94, Profit Ratio: 34.33% 
-            - Georgia: Total Sales: $49,095.84, Total Profit: $16,250.04, Profit Ratio: 33.10%  
-            - Michigan: Total Sales: $76,269.61, Total Profit: $24,463.19, Profit Ratio: 32.07% 
-            - Virginia: Total Sales: $70,636.72, Total Profit: $18,597.95, Profit Ratio: 26.33% 
-            - Washington: Total Sales: $138,641.27, Total Profit: $33,402.65, Profit Ratio: 24.09% 
-            - New York: Total Sales: $310,876.27, Total Profit: $74,038.55, Profit Ratio: 23.82%  
-            - California: Total Sales: $457,687.63, Total Profit: $76,381.39, Profit Ratio: 16.69%
+            - <b>Indiana:</b>
+              - Total Sales: $53,555.36
+              - Total Profit: $18,382.94
+              - Profit Ratio: 34.33% 
+            
+            - <b>Georgia:</b>
+              - Total Sales: $49,095.84
+              - Total Profit: $16,250.04
+              - Profit Ratio: 33.10%  
+            
+            - <b>Michigan:</b>
+              - Total Sales: $76,269.61
+              - Total Profit: $24,463.19
+              - Profit Ratio: 32.07% 
+            
+            - <b>Virginia:</b>
+              - Total Sales: $70,636.72
+              - Total Profit: $18,597.95
+              - Profit Ratio: 26.33% 
+            
+            - <b>Washington:</b>
+              - Total Sales: $138,641.27
+              - Total Profit: $33,402.65
+              - Profit Ratio: 24.09% 
+            
+            - <b>New York:</b>
+              - Total Sales: $310,876.27
+              - Total Profit: $74,038.55
+              - Profit Ratio: 23.82%  
+            
+            - <b>California:</b>
+              - Total Sales: $457,687.63
+              - Total Profit: $76,381.39
+              - Profit Ratio: 16.69%
               
           States like California, New York, Washington, Michigan, Indiana, Georgia, and Virginia are strong performers, demonstrating that high sales can indeed translate into significant profits. Their strategies and operational efficiencies should be studied for best practices that can potentially be replicated in underperforming regions. 
 
