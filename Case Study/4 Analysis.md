@@ -251,81 +251,81 @@ in thousands.
 
       By analyzing sales and profit ratios at the state level, we can identify such discrepancies:
 
-        <b>High Sales, Low/Negative Profit States:</b>
+        - <b>High Sales, Low/Negative Profit States:</b>
 
-        - These states generate significant sales but exhibit alarmingly low or negative profit margins, indicating deep-seated issues that erode profitability.
+          - These states generate significant sales but exhibit alarmingly low or negative profit margins, indicating deep-seated issues that erode profitability.
+          
+            - <b>Ohio:</b>
+              - Total Sales: $78,258.14
+              - Total Profit: $-16,971.38
+              - Profit Ratio: -21.69%
+            
+            - <b>Illinois:</b>
+              - Total Sales: $80,166.10
+              - Total Profit: $-12,607.89
+              - Profit Ratio: -15.73%
+            
+            - <b>Texas:</b>
+              - Total Sales: $170,188.05
+              - Total Profit: $-25,729.36
+              - Profit Ratio: -15.12%
+            
+            - <b>North Carolina:</b>
+              - Total Sales: $55,603.16
+              - Total Profit: $-7,490.91
+              - Profit Ratio: -13.47%
+            
+            - <b>Pennsylvania:</b>
+              - Total Sales: $116,511.91
+              - Total Profit: $-15,559.96
+              - Profit Ratio: -13.35%
+            
+            - <b>Florida:</b>
+              - Total Sales: $89,473.71
+              - Total Profit: $-3,399.30
+              - Profit Ratio: -3.80%
+            
+            States like Texas, Ohio, Pennsylvania, Illinois, North Carolina, and Florida are critical areas for intervention. Despite their relatively high sales volumes (some even in the top 10 for sales), their substantial negative profit margins suggest severe problems, likely due to aggressive discounting, high shipping costs, or a disproportionate number of returns in these areas.
+          
+      - <b>Consistently Profitable States (High Sales, High Profit Ratio):</b>
         
-          - <b>Ohio:</b>
-            - Total Sales: $78,258.14
-            - Total Profit: $-16,971.38
-            - Profit Ratio: -21.69%
-          
-          - <b>Illinois:</b>
-            - Total Sales: $80,166.10
-            - Total Profit: $-12,607.89
-            - Profit Ratio: -15.73%
-          
-          - <b>Texas:</b>
-            - Total Sales: $170,188.05
-            - Total Profit: $-25,729.36
-            - Profit Ratio: -15.12%
-          
-          - <b>North Carolina:</b>
-            - Total Sales: $55,603.16
-            - Total Profit: $-7,490.91
-            - Profit Ratio: -13.47%
-          
-          - <b>Pennsylvania:</b>
-            - Total Sales: $116,511.91
-            - Total Profit: $-15,559.96
-            - Profit Ratio: -13.35%
-          
-          - <b>Florida:</b>
-            - Total Sales: $89,473.71
-            - Total Profit: $-3,399.30
-            - Profit Ratio: -3.80%
-          
-          States like Texas, Ohio, Pennsylvania, Illinois, North Carolina, and Florida are critical areas for intervention. Despite their relatively high sales volumes (some even in the top 10 for sales), their substantial negative profit margins suggest severe problems, likely due to aggressive discounting, high shipping costs, or a disproportionate number of returns in these areas.
-        
-      <b>Consistently Profitable States (High Sales, High Profit Ratio):</b>
-        
-        - These states demonstrate both strong sales volume and healthy profit margins, representing successful market operations.
-            - <b>Indiana:</b>
-              - Total Sales: $53,555.36
-              - Total Profit: $18,382.94
-              - Profit Ratio: 34.33% 
-            
-            - <b>Georgia:</b>
-              - Total Sales: $49,095.84
-              - Total Profit: $16,250.04
-              - Profit Ratio: 33.10%  
-            
-            - <b>Michigan:</b>
-              - Total Sales: $76,269.61
-              - Total Profit: $24,463.19
-              - Profit Ratio: 32.07% 
-            
-            - <b>Virginia:</b>
-              - Total Sales: $70,636.72
-              - Total Profit: $18,597.95
-              - Profit Ratio: 26.33% 
-            
-            - <b>Washington:</b>
-              - Total Sales: $138,641.27
-              - Total Profit: $33,402.65
-              - Profit Ratio: 24.09% 
-            
-            - <b>New York:</b>
-              - Total Sales: $310,876.27
-              - Total Profit: $74,038.55
-              - Profit Ratio: 23.82%  
-            
-            - <b>California:</b>
-              - Total Sales: $457,687.63
-              - Total Profit: $76,381.39
-              - Profit Ratio: 16.69%
+          - These states demonstrate both strong sales volume and healthy profit margins, representing successful market operations.
+              - <b>Indiana:</b>
+                - Total Sales: $53,555.36
+                - Total Profit: $18,382.94
+                - Profit Ratio: 34.33% 
               
-          States like California, New York, Washington, Michigan, Indiana, Georgia, and Virginia are strong performers, demonstrating that high sales can indeed translate into significant profits. Their strategies and operational efficiencies should be studied for best practices that can potentially be replicated in underperforming regions. 
+              - <b>Georgia:</b>
+                - Total Sales: $49,095.84
+                - Total Profit: $16,250.04
+                - Profit Ratio: 33.10%  
+              
+              - <b>Michigan:</b>
+                - Total Sales: $76,269.61
+                - Total Profit: $24,463.19
+                - Profit Ratio: 32.07% 
+              
+              - <b>Virginia:</b>
+                - Total Sales: $70,636.72
+                - Total Profit: $18,597.95
+                - Profit Ratio: 26.33% 
+              
+              - <b>Washington:</b>
+                - Total Sales: $138,641.27
+                - Total Profit: $33,402.65
+                - Profit Ratio: 24.09% 
+              
+              - <b>New York:</b>
+                - Total Sales: $310,876.27
+                - Total Profit: $74,038.55
+                - Profit Ratio: 23.82%  
+              
+              - <b>California:</b>
+                - Total Sales: $457,687.63
+                - Total Profit: $76,381.39
+                - Profit Ratio: 16.69%
+                
+            States like California, New York, Washington, Michigan, Indiana, Georgia, and Virginia are strong performers, demonstrating that high sales can indeed translate into significant profits. Their strategies and operational efficiencies should be studied for best practices that can potentially be replicated in underperforming regions. 
 
 ---
 
