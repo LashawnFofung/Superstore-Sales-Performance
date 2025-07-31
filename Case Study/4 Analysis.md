@@ -107,12 +107,12 @@ in thousands.
 
 <b>Business Question(s)</b>
 
--  What are the overall total sales, profit, and volume for the Superstore?
+-  <b>What are the overall total sales, profit, and volume for the Superstore?</b>
     - <b>Total Sales:</b> $2,297,200.86
     - <b>Total Profit:</b> $286,397.02
     - <b>Total Volume (Quantity Sold):</b> 37,873 units   
 
--  What is the average sales amount per customer, and how does this metric differ across various customer segments or ship modes?
+-  <b>What is the average sales amount per customer, and how does this metric differ across various customer segments or ship modes?</b>
     - The overall average sales amount per customer is $2,896.85.
     
     - <b>Across Customer Segments:</b> Corporate customers have the highest average sales per customer ($2,992.15), followed by Home Office ($2,903.06), and then Consumer ($2,839.61).
@@ -127,7 +127,7 @@ in thousands.
 
 <b>Business Question(s)</b>
 
-  -  Which regions contribute the most to total sales, and what is their percentage share of the overall sales pie?
+  -  <b>Which regions contribute the most to total sales, and what is their percentage share of the overall sales pie?</b>
 
       The geographic distribution of sales reveals distinct contributions from each of Superstore Inc.'s regions:
         - <b>West:</b> $$725,457.82$ (31.58% of total sales)
@@ -140,7 +140,7 @@ in thousands.
         
       The West and East regions are the primary revenue drivers for Superstore Inc., collectively accounting for over 60% of total sales. The Central and South regions, while contributing significantly, represent smaller portions of the overall sales pie.
   
-  -  Are there any regions that are underperforming in terms of sales, and why might that be the case?
+  -  <b>Are there any regions that are underperforming in terms of sales, and why might that be the case?</b>
       -  Based on sales volume, the South and Central regions are comparatively underperforming. The "why" for underperformance is multi-faceted and could stem from:
         - <b>Market Saturation/Competition:</b> Higher competition or a more saturated market in these regions could limit sales growth.
         
@@ -155,14 +155,14 @@ in thousands.
      Further analysis, including profit margins by region, is crucial to determine if low sales are mitigated by higher profitability or if they represent a deeper issue.
 
   
-  -  What are the top 'N' performing states by sales, and how does changing 'N' reveal different insights about geographical sales concentration?
+  -  <b>What are the top 'N' performing states by sales, and how does changing 'N' reveal different insights about geographical sales concentration?</b>
 
      Examining the top 'N' performing states by sales allows for a granular understanding of geographical sales concentration.
 
      <b>For instance:</b>
        - <b>Top 5 States by Sales:</b>
          - <b>California:</b> $457,687.63
-         - b>New York:</b> $310,876.27
+         - <b>New York:</b> $310,876.27
          - <b>Texas:</b> $170,188.05
          - <b>Washington:</b> $138,641.27
          - <b>Pennsylvania:</b> $116,511.91
@@ -172,7 +172,7 @@ in thousands.
         Insight from changing 'N': A small 'N' (e.g., top 5) reveals the most critical revenue hubs, indicating where the majority of sales efforts might be focused. Increasing 'N' (e.g., top 10, top 20) helps identify the next tier of significant markets, which might represent growth opportunities or states that are important for overall market presence, even if their individual contribution is smaller than the absolute top performers. It also helps to visualize the "long tail" of sales distribution, identifying states with minimal sales that might not warrant significant direct investment.
 
   
-  -  How do different customer segments (e.g., Consumer, Corporate, Home Office) contribute to overall sales and profit?
+  -  <b.How do different customer segments (e.g., Consumer, Corporate, Home Office) contribute to overall sales and profit?</b>
     -  Customer segments show varying contributions to both sales and profit:
      
         - <b>Consumer Segment:</b>
@@ -198,7 +198,7 @@ in thousands.
          The Home Office segment, while having the lowest total sales volume, boasts the highest profit ratio. This suggests that sales to home offices are highly efficient or involve products with better margins. This segment might be a key focus for increasing profitability.
 
   
-  -  Does the choice of shipping mode impact sales or profit margins?
+  -  <b>Does the choice of shipping mode impact sales or profit margins?</b>
 
      Yes, the choice of shipping mode does appear to impact both total sales and profit margins:
 
@@ -234,7 +234,7 @@ in thousands.
         
  
   
-  -  Can we identify specific states or regions that are consistently profitable versus those that are consistently less profitable, despite high sales volume?
+  -  <b>Can we identify specific states or regions that are consistently profitable versus those that are consistently less profitable, despite high sales volume?</b>
 
       By analyzing sales and profit ratios at the state level, we can identify such discrepancies:
 
@@ -280,7 +280,7 @@ in thousands.
 
 <b>Business Question(s)</b>
 
-  - Which sub-categories generate the highest sales, and how does this vary across different product categories?
+  - <b>Which sub-categories generate the highest sales, and how does this vary across different product categories?</b>
 
     The product portfolio shows varying sales contributions across categories and their respective sub-categories.
 
@@ -322,7 +322,7 @@ in thousands.
 
 
 
-- Are there any particular sub-categories that, while having high sales, might have low-profit margins, indicating a need for pricing or cost review?
+- <b>Are there any particular sub-categories that, while having high sales, might have low-profit margins, indicating a need for pricing or cost review?</b>
 
   Yes, an analysis of sales volume versus profit margins reveals several sub-categories that, despite generating significant sales, struggle with profitability. These are crucial areas for pricing or cost review:
 
@@ -373,7 +373,7 @@ in thousands.
 
 <b>Business Question(s)</b>
 
-  - How do sales trends vary month-over-month and year-over-year? Are there any seasonal patterns or significant spikes/drops in sales?
+  - <b>How do sales trends vary month-over-month and year-over-year? Are there any seasonal patterns or significant spikes/drops in sales?</b>
 
     Analyzing sales data over time reveals clear trends and significant seasonal patterns for Superstore Inc.
 
