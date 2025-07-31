@@ -152,7 +152,7 @@ in thousands.
         
         - <b>Regional Management Effectiveness:</b> As per the `sample_superstore_people.xls`, the effectiveness of regional managers and their teams could play a role.
         
-        - Further analysis, including profit margins by region, is crucial to determine if low sales are mitigated by higher profitability or if they represent a deeper issue.
+     Further analysis, including profit margins by region, is crucial to determine if low sales are mitigated by higher profitability or if they represent a deeper issue.
 
   
   -  What are the top 'N' performing states by sales, and how does changing 'N' reveal different insights about geographical sales concentration?
