@@ -461,8 +461,6 @@ in thousands.
            -	<b>Highest Sales Spike:</b> November 2021 stands out with the highest single-month sales at $118,447.82. This confirms the peak season's strong influence and suggests particularly successful campaigns or high demand in that period.
            -	<b>Lowest Sales Drop:</b> The lowest sales month observed is February 2018 with $4,519.89, which is significantly lower than the overall monthly average. While February generally has low sales, this specific month represents an extreme trough. The overall April sales were noted as lowest in the previous KPI analysis at $28K (April 2018).
 
-<br>
-
     -	<b>Summary of Sales Trends:</b>
   
           Superstore Inc. exhibits a clear seasonal pattern with sales peaking in the last quarter of the year (September-December) and dipping in the first quarter (January-February). This strong seasonality indicates the importance of strategic planning around these periods, including inventory management, marketing campaigns, and staffing adjustments. The overall year-over-year trend shows healthy growth, suggesting effective long-term strategies despite monthly fluctuations. Further investigation into the specific events or campaigns during peak sales months (e.g., Nov 2021) and the reasons for extreme drops in low-performing months could yield actionable insights.
