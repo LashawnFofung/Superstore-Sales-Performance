@@ -160,6 +160,7 @@ in thousands.
      Examining the top 'N' performing states by sales allows for a granular understanding of geographical sales concentration.
 
          For instance:
+
              - <b>Top 5 States by Sales:</b>
                  - <b>California:</b> $457,687.63
                  - <b>New York:</b> $310,876.27
