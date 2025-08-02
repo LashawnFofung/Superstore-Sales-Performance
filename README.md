@@ -2,7 +2,7 @@
 
 <h3>Overview:</h3>
 
-This case study utilizes the Tableau Superstore dataset (`superstore.xls`), drawing insights to address critical business challenges faced by a retail company.
+This case study utilizes the Tableau Superstore dataset (`sample_superstore.xls`), drawing insights to address critical business challenges faced by a retail company.
 
 <br>
 
@@ -41,7 +41,7 @@ Case Study report artifacts can be found:
 <h3>Technologies Used:</h3>
 
 - <b>Tableau Public/Tableau Desktop:</b> For data visualization and dashboard creation.
-- <b>Microsoft Excel(.xls):</b> Source data file (`superstore.xls`)
+- <b>Microsoft Excel(.xls):</b> Source data file (`sample_superstore.xls`)
 - <b>MySQL:</b> Leverage Structured Query Language (SQL) for managing and manipulating data.
 
 <br>
