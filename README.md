@@ -27,7 +27,7 @@ Case Study report artifacts can be found:
 - [5. Alternatives](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/5%20Alternatives.md)
 - [6. Recommendations](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/6%20Recommendations.md)
 - [7. Conclusion](https://github.com/LashawnFofung/Superstore-Sales-Performance-Dashboard/blob/main/Case%20Study/7%20Conclusion.md)
-- [8. Tableau Public Dashboard](https://public.tableau.com/views/superstore_sales_performance/SalesDashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [8. Tableau Public Dashboard](https://public.tableau.com/shared/YQPTQC4NC?:display_count=n&:origin=viz_share_link)
 - [9. SQL Queries]()
 
 <h3>Other Project Documents</h3>
