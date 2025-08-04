@@ -40,7 +40,7 @@ This repository contains a comprehensive data analysis project focused on unders
 
 <h3>How to Use This Repository:</h3>
 
-- <b>Clone the repository:</b> `git clone` [Superstore Sales Performance](https://github.com/LashawnFofung/Superstore-Sales-Performance.git) 
+- <b>Clone the repository:</b> `git clone:` [Superstore Sales Performance](https://github.com/LashawnFofung/Superstore-Sales-Performance.git) 
 
 - <b>Navigate to the project directory.</b>
 
@@ -48,9 +48,9 @@ This repository contains a comprehensive data analysis project focused on unders
 
 - <b>Review the analysis scripts:</b> Examine the Python notebooks or scripts for data processing and analytical methodologies.
 
-- <b>Open Tableau Workbooks:</b> Access the .twb or .twbx files to view the interactive dashboards and the "Superstore Sales Performance Story."
+- <b>Open Tableau Workbook:</b> Access the `superstore_sales_performance.twbx` files to view the interactive dashboards and the "Superstore Sales Performance Story."
 
-- <b>Read the full report:</b> Refer to the final Superstore Sales Performance Case Study.pdf for detailed insights and recommendations.
+- <b>Read the full report:</b> Refer to the `Superstore Sales Performance Case Study.pdf` for detailed insights and recommendations.
 
 This project serves as a practical example of how data-driven analysis can inform strategic business decisions to enhance profitability and operational efficiency.
 
@@ -63,17 +63,3 @@ This project serves as a practical example of how data-driven analysis can infor
   - [WBS (Export from Smartsheet)](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/WBS/Superstore_Sale_Performance_Dashboard_WBS.xlsx)
 
 ---
-
-<h3>Technologies Used:</h3>
-
-- <b>Tableau Public/Tableau Desktop:</b> For data visualization and dashboard creation.
-- <b>Microsoft Excel(.xls):</b> Source data file (`sample_superstore.xls`)
-- <b>MySQL:</b> Leverage Structured Query Language (SQL) for managing and manipulating data.
-
-<br>
-
-<h3>How to Use:</h3>
-
-  1. Clone this repository. 
-  1. Open the `superstore_sales_performance.twbx` file using Tableau Desktop or Tableau Public. 
-  1. Interact with the dashboard by using the filters, clicking on the pie chart regions, or bubble chart sub-categories to explore sales data from different perspectives.
