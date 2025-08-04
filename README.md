@@ -40,11 +40,11 @@ This repository contains a comprehensive data analysis project focused on unders
 
 <h3>How to Use This Repository:</h3>
 
-- <b>Clone the repository:</b> `git clone [your-repo-link]`
+- <b>Clone the repository:</b> `git clone [Superstore Sales Performance](https://github.com/LashawnFofung/Superstore-Sales-Performance.git)`
 
 - <b>Navigate to the project directory.</b>
 
-- <b>Explore the data:</b> Find the `sample_superstore_orders.xls` dataset.
+- <b>Explore the data:</b> Find the `sample_superstore.xls` dataset.
 
 - <b>Review the analysis scripts:</b> Examine the Python notebooks or scripts for data processing and analytical methodologies.
 
