@@ -40,7 +40,7 @@ This repository contains a comprehensive data analysis project focused on unders
 
 <h3>How to Use This Repository:</h3>
 
-- <b>Clone the repository:</b> `git clone [Superstore Sales Performance](https://github.com/LashawnFofung/Superstore-Sales-Performance.git)`
+- <b>Clone the repository:</b> `git clone` [Superstore Sales Performance](https://github.com/LashawnFofung/Superstore-Sales-Performance.git) 
 
 - <b>Navigate to the project directory.</b>
 
