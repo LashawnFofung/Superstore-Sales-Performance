@@ -27,6 +27,11 @@ The analysis identified key challenges: low or negative profitability in high-sa
 
 <br>
 
+<b>Conclusion and Recommendations: A Path to Sustainable Profitability</b>
+
+The core recommendation is an integrated strategy: optimize pricing and product mix for low-profit, high-sales sub-categories and implement targeted profitability initiatives in underperforming states. This aims for significant profit improvement and enhanced strategic decision-making.
+
+<br>
 
 <h3>Technologies Used:</h3>
 
