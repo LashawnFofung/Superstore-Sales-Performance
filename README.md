@@ -34,7 +34,7 @@ This repository contains a comprehensive data analysis project focused on unders
 
 - <b>Tableau Desktop:</b> For creating compelling data visualizations and interactive dashboards/stories.
 
-- <b>Microsoft Excel:</b> Source data file (`sample_superstore_orders.xls`).
+- <b>Microsoft Excel:</b> Source data file (`sample_superstore.xls`).
 
 
 
@@ -48,7 +48,7 @@ This repository contains a comprehensive data analysis project focused on unders
 
 - <b>Review the analysis scripts:</b> Examine the Python notebooks or scripts for data processing and analytical methodologies.
 
-- <b>Open Tableau Workbook:</b> Access the `superstore_sales_performance.twbx` files to view the interactive dashboards and the "Superstore Sales Performance Story."
+- <b>Open Tableau Workbook:</b> Access the `superstore_sales_performance.twbx` files to view the interactive dashboards and the "superstore_sales_performance_case_study."
 
 - <b>Read the full report:</b> Refer to the `Superstore Sales Performance Case Study.pdf` for detailed insights and recommendations.
 
