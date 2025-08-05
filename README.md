@@ -57,7 +57,7 @@ The core recommendation is an integrated strategy: optimize pricing and product 
 
 - <b>Open Tableau Workbook:</b> Access the `superstore_sales_performance.twbx` files to view the interactive dashboards and the "superstore_sales_performance_case_study."
 
-- <b>Read the full report:</b> Refer to the `Superstore Sales Performance Case Study.pdf` for detailed insights and recommendations.
+- <b>Read the full report:</b> Refer to the [Superstore Sales Performance Case Study.pdf](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Case%20Study/Case%20Study-%20Optimizing%20Superstore%20Sales%20Performance%20for%20Enhanced%20Profitability.pdf) for detailed insights and recommendations.
 
 This project serves as a practical example of how data-driven analysis can inform strategic business decisions to enhance profitability and operational efficiency.
 
