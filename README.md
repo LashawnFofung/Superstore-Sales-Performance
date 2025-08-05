@@ -51,7 +51,7 @@ The core recommendation is an integrated strategy: optimize pricing and product 
 
 - <b>Navigate to the project directory.</b>
 
-- <b>Explore the data:</b> Find the `sample_superstore.xls` dataset.
+- <b>Explore the data:</b> Find the [sample_superstore.xls](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Data/sample_superstore.xls) dataset.
 
 - <b>Review the analysis scripts:</b> Examine the Python notebooks or scripts for data processing and analytical methodologies.
 
