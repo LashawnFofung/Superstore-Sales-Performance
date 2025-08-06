@@ -55,7 +55,7 @@ The core recommendation is an integrated strategy: optimize pricing and product 
 
 - <b>Review the analysis scripts:</b> Examine the Python notebooks or scripts for data processing and analytical methodologies.
 
-- <b>Open Tableau Workbook:</b> Access the [superstore_sales_performance.twbx](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Tableau/superstore_sales_performance.twbx) files to view the interactive dashboards and the "superstore_sales_performance_case_study."
+- <b>Open Tableau Workbook:</b> Access the [Superstore Sales Performance.twbx](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Tableau/Superstore%20Sales%20Performance%20Case%20Study.twbx) files to view the interactive dashboards and the [Superstore Sales Performance Case Study](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Tableau/Superstore%20Sales%20Performance.twbx).
 
 - <b>Read the full report:</b> Refer to the [Superstore Sales Performance Case Study.pdf](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Case%20Study/Case%20Study-%20Optimizing%20Superstore%20Sales%20Performance%20for%20Enhanced%20Profitability.pdf) for detailed insights and recommendations.
 
