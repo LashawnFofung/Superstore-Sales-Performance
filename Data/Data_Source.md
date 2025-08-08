@@ -12,3 +12,7 @@ The dataset is composed of three interconnected tables: `Orders`, `People`, and 
   - The`Order` table contains 9,994 detailed records of sales orders.
   - The `People` table is a small lookup table with 4 entries that maps each of the four geographical regions to its respective regional manager.
   - The `Returns` table lists 800 records of items that were returned
+
+
+<h2>Entity Relationship Diagram (ERD)</h2>
+
