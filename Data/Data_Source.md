@@ -16,4 +16,6 @@ The dataset is composed of three interconnected tables: `Orders`, `People`, and 
 
 <h2>Entity Relationship Diagram (ERD)</h2>
 
-<img src="https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Images/Sample%20Superstore%20Dataset%20ERD.png"  width ="200" height="4" alt= "Sample Superstore Dataset ERD">
+
+![Sample Superstore Dataset ERD](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Images/Sample%20Superstore%20Dataset%20ERD.png)
+
