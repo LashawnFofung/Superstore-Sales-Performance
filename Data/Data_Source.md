@@ -9,9 +9,9 @@ The analysis utilizes the [Sample_Superstore.xls](https://github.com/LashawnFofu
 
 The dataset is composed of three interconnected tables: `Orders`, `People`, and `Returns`.
 
-  - The`Order` table contains 9,994 detailed records of sales orders.
+  - The`Order` table contains 9,994 detailed records of every sales order placed. It is the central table of the dataset and includes key information about each transaction such as Order ID, Order Date, Customer ID, Segment, Product Name, and State.
   - The `People` table is a small lookup table with 4 entries that maps each of the four geographical regions to its respective regional manager.
-  - The `Returns` table lists 800 records of items that were returned
+  - The `Returns` table contains a list of 800 orders that have been returned. It can be used to identify which orders from the Orders.csv file were returned.
 
 
 <h2>Entity Relationship Diagram (ERD)</h2>
