@@ -7,11 +7,9 @@ The analysis utilizes the [Sample_Superstore.xls](https://github.com/LashawnFofu
 ---
 <h2>Data Description</h2>
 
-The dataset is composed of three interconnected tables: `Orders`, `People`, and `Returns`.
+The analysis is based on a detailed dataset comprised of three interconnected tables from the `sample_superstore.xls` file: <b>Orders</b>, <b>Returns</b>, and <b>People</b>. The Orders table serves as the central hub of this data, containing 9,994 detailed records of every sales order placed. It includes key information for each transaction, such as Order ID, Order Date, Customer ID, Segment, Product Name, and State, along with crucial financial metrics like Sales, Quantity, Discount, and Profit.
 
-  - <b>Orders:</b> Table contains 9,994 detailed records of every sales order placed. It is the central table of the dataset and includes key information about each transaction such as Order ID, Order Date, Customer ID, Segment, Product Name, and State.
-  - <b>People:</b> Table is a small lookup table with 4 entries that maps each of the four geographical regions to its respective regional manager.
-  - <b>Returns:</b> Table contains a list of 800 records and 296 unique orders that have been returned. This can be used to link returns to specific orders in the Orders table.
+The <b>Returns</b> table augments this data with a list of 800 records for 296 unique returned orders. The Order ID in the Returns table acts as a foreign key, establishing a one-to-many relationship with the Orders table and allowing for a more accurate assessment of net profitability by linking each return record back to its specific transaction.
 
 
 <h2>Entity Relationship Diagram (ERD)</h2>
