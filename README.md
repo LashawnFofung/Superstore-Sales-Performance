@@ -11,7 +11,7 @@ Superstore Inc., a prominent retail entity with a diverse product portfolio span
 
 The analysis of 9,994 records across 2014-2017 shows a significant challenge: high sales volume does not consistently translate to profitability. The company's financial performance is uneven, with profitable regions like the West and East, and the Home Office customer segment, standing in contrast to high-revenue, low-profit areas such as Texas and specific product categories like Tables and Bookcases. The key recommendation is to implement a profitability-first strategy. This involves directing marketing efforts and resources to proven successes while strategically intervening in underperforming areas by adjusting pricing and discounts or re-evaluating their market presence. By capitalizing on seasonal sales peaks and focusing on high-margin products and customer segments, Superstore can move towards a more sustainable and financially healthy future.
 
-Full report can be read [HERE:]().
+Full report can be read [HERE:](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Case%20Study/Case%20Study-%20Optimizing%20Superstore%20Sales%20Performance%20for%20Enhanced%20Profitability.pdf).
 
 
 
