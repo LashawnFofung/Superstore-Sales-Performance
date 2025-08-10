@@ -11,7 +11,8 @@ Superstore Inc., a prominent retail entity with a diverse product portfolio span
 
 The analysis of 9,994 records across 2014-2017 shows a significant challenge: high sales volume does not consistently translate to profitability. The company's financial performance is uneven, with profitable regions like the West and East, and the Home Office customer segment, standing in contrast to high-revenue, low-profit areas such as Texas and specific product categories like Tables and Bookcases. The key recommendation is to implement a profitability-first strategy. This involves directing marketing efforts and resources to proven successes while strategically intervening in underperforming areas by adjusting pricing and discounts or re-evaluating their market presence. By capitalizing on seasonal sales peaks and focusing on high-margin products and customer segments, Superstore can move towards a more sustainable and financially healthy future.
 
-Full report can be read [HERE:](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Case%20Study/Case%20Study-%20Optimizing%20Superstore%20Sales%20Performance%20for%20Enhanced%20Profitability.pdf).
+- <b>Read the full report:</b> Refer to the [Superstore Sales Performance Case Study.pdf](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Case%20Study/Case%20Study-%20Optimizing%20Superstore%20Sales%20Performance%20for%20Enhanced%20Profitability.pdf) for detailed insights and recommendations.
+
 
 
 
@@ -41,8 +42,6 @@ Full report can be read [HERE:](https://github.com/LashawnFofung/Superstore-Sale
 - <b>Review the analysis scripts:</b> Examine the Python notebooks or scripts for data processing and analytical methodologies.
 
 - <b>Open Tableau Workbook:</b> Access the [Superstore Sales Performance.twbx](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Tableau/Superstore%20Sales%20Performance%20Case%20Study.twbx) files to view the interactive dashboards and the [Superstore Sales Performance Case Study](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Tableau/Superstore%20Sales%20Performance.twbx).
-
-- <b>Read the full report:</b> Refer to the [Superstore Sales Performance Case Study.pdf](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Case%20Study/Case%20Study-%20Optimizing%20Superstore%20Sales%20Performance%20for%20Enhanced%20Profitability.pdf) for detailed insights and recommendations.
 
 This project serves as a practical example of how data-driven analysis can inform strategic business decisions to enhance profitability and operational efficiency.
 
