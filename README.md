@@ -11,6 +11,19 @@ Superstore Inc., a prominent retail entity with a diverse product portfolio span
 
 The analysis of 9,994 records across 2014-2017 shows a significant challenge: high sales volume does not consistently translate to profitability. The company's financial performance is uneven, with profitable regions like the West and East, and the Home Office customer segment, standing in contrast to high-revenue, low-profit areas such as Texas and specific product categories like Tables and Bookcases. The key recommendation is to implement a profitability-first strategy. This involves directing marketing efforts and resources to proven successes while strategically intervening in underperforming areas by adjusting pricing and discounts or re-evaluating their market presence. By capitalizing on seasonal sales peaks and focusing on high-margin products and customer segments, Superstore can move towards a more sustainable and financially healthy future.
 
+
+<h2>Data Structure Overview</h2>
+
+The analysis is based on a detailed dataset comprised of three interconnected tables from the `sample_superstore.xls` file: <b>Orders</b>, <b>Returns</b>, and <b>People</b>. The Orders table serves as the central hub of this data, containing 9,994 detailed records of every sales order placed. It includes key information for each transaction, such as Order ID, Order Date, Customer ID, Segment, Product Name, and State, along with crucial financial metrics like Sales, Quantity, Discount, and Profit.
+
+The <b>Returns</b> table augments this data with a list of 800 records for 296 unique returned orders. The Order ID in the Returns table acts as a foreign key, establishing a one-to-many relationship with the Orders table and allowing for a more accurate assessment of net profitability by linking each return record back to its specific transaction.
+
+
+![Sample Superstore Dataset ERD](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Images/Sample%20Superstore%20Dataset%20ERD.png)
+
+
+This project serves as a practical example of how data-driven analysis can inform strategic business decisions to enhance profitability and operational efficiency.
+
 - <b>Read the full report:</b> [HERE](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Case%20Study/Case%20Study-%20Optimizing%20Superstore%20Sales%20Performance%20for%20Enhanced%20Profitability.pdf) for detailed insights and recommendations.
 
 
@@ -43,7 +56,6 @@ The analysis of 9,994 records across 2014-2017 shows a significant challenge: hi
 
 - <b>Open Tableau Workbook:</b> Access the [Superstore Sales Performance.twbx](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Tableau/Superstore%20Sales%20Performance%20Case%20Study.twbx) files to view the interactive dashboards and the [Superstore Sales Performance Case Study](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Tableau/Superstore%20Sales%20Performance.twbx).
 
-This project serves as a practical example of how data-driven analysis can inform strategic business decisions to enhance profitability and operational efficiency.
 
 <br>
 
