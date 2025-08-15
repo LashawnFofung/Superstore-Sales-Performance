@@ -1,4 +1,4 @@
-<h2>Superstore Sales Performance Analysis: Driving Profitability Through Data Insights (Orders from January 2014 - December 2017)</h2>
+<h2>Superstore Sales Performance Analysis: Optimizing Superstore Sales Performance for Enhanced Profitability (Orders from January 2014 - December 2017)</h2>
 
 This repository contains a comprehensive data analysis project focused on understanding and optimizing Superstore Inc.'s sales performance. Leveraging a rich transactional dataset, this project employs a multi-dimensional approach to identify key profitability drivers, uncover performance discrepancies across regions, products, and customer segments, and formulate actionable, data-driven recommendations.
 
