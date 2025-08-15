@@ -2,15 +2,12 @@
 
 This repository contains a comprehensive data analysis project focused on understanding and optimizing Superstore Inc.'s sales performance. Leveraging a rich transactional dataset, this project employs a multi-dimensional approach to identify key profitability drivers, uncover performance discrepancies across regions, products, and customer segments, and formulate actionable, data-driven recommendations.
 
-<h3>Background</h3>
+<h2>Background</h2>
 Superstore Inc. has experienced inconsistent profitability across different regions, product categories, and customer segments. The company's leadership wants to understand the key drivers of sales and profit, identify areas of underperformance, and develop data-driven strategies to improve overall business performance and maximize profit margins. A comprehensive performance analysis of Superstore was undertaken to identify key trends, performance drivers, and opportunities for enhanced profitability. The core objective was to move beyond high-level sales figures and provide actionable, data-driven insights to improve the company's bottom line. This report details findings from a deep dive into critical areas, including sales trends, profitability drivers, and regional performance, to inform strategic decision-making and steer the company toward sustainable, profitable growth.
 
 
-<h3>Executive Summary</h3>
-Superstore Inc., a prominent retail entity with a diverse product portfolio spanning Furniture, Office Supplies, and Technology, has established a significant market presence across the United States. Serving a wide customer base segmented into Consumer, Corporate, and Home Office, the company achieved over $2.3 million in total sales. However, recent observations indicated inconsistencies in financial performance, leading to a modest profit of $286,397 and a 12.47% profit ratio. The leadership team recognized the critical need to delve deeper into its operational data to understand the underlying factors contributing to these varying levels of sales and profitability.
-
-
-<br>
+<h2>Executive Summary</h2>
+Superstore Inc., a prominent retail entity with a diverse product portfolio spanning Furniture, Office Supplies, and Technology, has established a significant market presence across the United States. Serving a wide customer base segmented into Consumer, Corporate, and Home Office, the company achieved over $2.3 million in total sales. However, recent observations indicated inconsistencies in financial performance, leading to a modest profit of $286,397 and a 12.47% profit ratio. The leadership team recognized the critical need to delve deeper into its operational data to understand the underlying factors contributing to these varying levels of sales and profitability. 
 
 The analysis of 9,994 records across 2014-2017 shows a significant challenge: high sales volume does not consistently translate to profitability. The company's financial performance is uneven, with profitable regions like the West and East, and the Home Office customer segment, standing in contrast to high-revenue, low-profit areas such as Texas and specific product categories like Tables and Bookcases. The key recommendation is to implement a profitability-first strategy. This involves directing marketing efforts and resources to proven successes while strategically intervening in underperforming areas by adjusting pricing and discounts or re-evaluating their market presence. By capitalizing on seasonal sales peaks and focusing on high-margin products and customer segments, Superstore can move towards a more sustainable and financially healthy future.
 
@@ -35,7 +32,7 @@ This project serves as a practical example of how data-driven analysis can infor
 
 <br>
 
-<h3>Technologies Used:</h3>
+<h2>Technologies Used:</h2>
 
 - <b>MySQL Workbench:</b> For data cleaning, preprocessing, and analysis.
 
@@ -47,7 +44,7 @@ This project serves as a practical example of how data-driven analysis can infor
 
 
 
-<h3>How to Use This Repository:</h3>
+<h2>How to Use This Repository:</h2>
 
 - <b>Clone the repository:</b> `git clone https://github.com/LashawnFofung/Superstore-Sales-Performance.git`
 
@@ -62,7 +59,7 @@ This project serves as a practical example of how data-driven analysis can infor
 
 <br>
 
-<h3>Other Project Documents</h3>
+<h2>Other Project Documents</h2>
 
 - [Project Management Plan](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/Plan/Project%20Management%20Plan.md)
   - [WBS Overview & Project Timeline](https://youtu.be/t5fny7NXkSs)
