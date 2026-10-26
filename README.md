@@ -1,66 +1,163 @@
-<h2>Superstore Sales Performance Analysis: Optimizing Superstore Sales Performance for Enhanced Profitability (Orders from January 2014 - December 2017)</h2>
+<div align="center">
 
-This repository contains a comprehensive data analysis project focused on understanding and optimizing Superstore Inc.'s sales performance. Leveraging a rich transactional dataset, this project employs a multi-dimensional approach to identify key profitability drivers, uncover performance discrepancies across regions, products, and customer segments, and formulate actionable, data-driven recommendations.
+# 🛒 Superstore Sales Performance
+### Why $2.3M in sales produced only a 12.47% profit ratio, and how to fix it
 
-<h2>Background</h2>
-Superstore Inc. has experienced inconsistent profitability across different regions, product categories, and customer segments. The company's leadership wants to understand the key drivers of sales and profit, identify areas of underperformance, and develop data-driven strategies to improve overall business performance and maximize profit margins. A comprehensive performance analysis of Superstore was undertaken to identify key trends, performance drivers, and opportunities for enhanced profitability. The core objective was to move beyond high-level sales figures and provide actionable, data-driven insights to improve the company's bottom line. This report details findings from a deep dive into critical areas, including sales trends, profitability drivers, and regional performance, to inform strategic decision-making and steer the company toward sustainable, profitable growth.
+**Data Analysis · Tableau · SQL · Project Management** · Orders Jan 2014 – Dec 2017 · Completed July 2025
 
+[![Dashboard](https://img.shields.io/badge/Dashboard-Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/shared/MP44DZ8ZT?%3Adisplay_count=n&%3Aorigin=viz_share_link)
+[![Story](https://img.shields.io/badge/Case_Study_Story-Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/views/SuperstoreSalesPerformanceCaseStudy/SuperstoreSalesPerformanceCaseStudy?%3Alanguage=en-US&publish=yes&%3Asid=&%3Aredirect=auth&%3Adisplay_count=n&%3Aorigin=viz_share_link)
+[![Case Study](https://img.shields.io/badge/Case_Study-PDF-B31B1B?style=flat&logo=adobeacrobatreader&logoColor=white)](Case%20Study/Case%20Study-%20Optimizing%20Superstore%20Sales%20Performance%20for%20Enhanced%20Profitability.pdf)
+[![Data Portfolio](https://img.shields.io/badge/Data_Portfolio-View-2EA44F?style=flat&logo=github&logoColor=white)](https://github.com/LashawnFofung/Data-Analysis-Portfolio)
 
-<h2>Executive Summary</h2>
-Superstore Inc., a prominent retail entity with a diverse product portfolio spanning Furniture, Office Supplies, and Technology, has established a significant market presence across the United States. Serving a wide customer base segmented into Consumer, Corporate, and Home Office, the company achieved over $2.3 million in total sales. However, recent observations indicated inconsistencies in financial performance, leading to a modest profit of $286,397 and a 12.47% profit ratio. The leadership team recognized the critical need to delve deeper into its operational data to understand the underlying factors contributing to these varying levels of sales and profitability. The analysis of 9,994 records across 2014-2017 shows a significant challenge: high sales volume does not consistently translate to profitability. The company's financial performance is uneven, with profitable regions like the West and East, and the Home Office customer segment, standing in contrast to high-revenue, low-profit areas such as Texas and specific product categories like Tables and Bookcases. The key recommendation is to implement a profitability-first strategy. This involves directing marketing efforts and resources to proven successes while strategically intervening in underperforming areas by adjusting pricing and discounts or re-evaluating their market presence. By capitalizing on seasonal sales peaks and focusing on high-margin products and customer segments, Superstore can move towards a more sustainable and financially healthy future.
+[![Superstore Sales Performance Dashboard](Images/Superstore%20Sales%20Performance%20Dashboard.png)](https://public.tableau.com/shared/MP44DZ8ZT?%3Adisplay_count=n&%3Aorigin=viz_share_link)
 
-
-<h2>Data Structure Overview</h2>
-
-The analysis is based on a detailed dataset comprised of three interconnected tables from the `sample_superstore.xls` file: <b>Orders</b>, <b>Returns</b>, and <b>People</b>. The Orders table serves as the central hub of this data, containing 9,994 detailed records of every sales order placed. It includes key information for each transaction, such as Order ID, Order Date, Customer ID, Segment, Product Name, and State, along with crucial financial metrics like Sales, Quantity, Discount, and Profit.
-
-The <b>Returns</b> table augments this data with a list of 800 records for 296 unique returned orders. The Order ID in the Returns table acts as a foreign key, establishing a one-to-many relationship with the Orders table and allowing for a more accurate assessment of net profitability by linking each return record back to its specific transaction.
-
-
-![Sample Superstore Dataset ERD](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Images/Sample%20Superstore%20Dataset%20ERD.png)
-
-
-This project serves as a practical example of how data-driven analysis can inform strategic business decisions to enhance profitability and operational efficiency.
-
-- <b>Read the full report:</b> [HERE](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Case%20Study/Case%20Study-%20Optimizing%20Superstore%20Sales%20Performance%20for%20Enhanced%20Profitability.pdf) for detailed insights and recommendations.
-
-
-
-
-
-<br>
-
-<h2>Technologies Used:</h2>
-
-- <b>MySQL Workbench:</b> For data cleaning, preprocessing, and analysis.
-
-- <b>SQL:</b> Data manipulation and numerical operations.
-
-- <b>Tableau Desktop:</b> For creating compelling data visualizations and interactive dashboards/stories.
-
-- <b>Microsoft Excel:</b> Source data file (`sample_superstore.xls`).
-
-
-
-<h2>How to Use This Repository:</h2>
-
-- <b>Clone the repository:</b> `git clone https://github.com/LashawnFofung/Superstore-Sales-Performance.git`
-
-- <b>Navigate to the project directory.</b>
-
-- <b>Explore the data:</b> Find the [sample_superstore.xls](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Data/sample_superstore.xls) dataset.
-
-- <b>Review the analysis scripts:</b> Examine the Python notebooks or scripts for data processing and analytical methodologies.
-
-- <b>Open Tableau Workbook:</b> Access the [Superstore Sales Performance.twbx](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Tableau/Superstore%20Sales%20Performance%20Case%20Study.twbx) files to view the interactive dashboards and the [Superstore Sales Performance Case Study](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Tableau/Superstore%20Sales%20Performance.twbx).
-
-
-<br>
-
-<h2>Other Project Documents</h2>
-
-- [Project Management Plan](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/Plan/Project%20Management%20Plan.md)
-  - [WBS Overview & Project Timeline](https://youtu.be/t5fny7NXkSs)
-  - [WBS (Export from Smartsheet)](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/WBS/Superstore_Sale_Performance_Dashboard_WBS.xlsx)
+</div>
 
 ---
+
+## Contents
+[TL;DR](#tldr) · [The Question](#the-question) · [Data](#data) · [Key Findings](#key-findings) · [Recommendations](#recommendations) · [Caveats](#caveats--open-questions) · [Project Management](#project-management) · [Files](#files) · [My Role](#my-role)
+
+---
+
+## TL;DR
+
+| | |
+|---|---|
+| **Question** | Superstore's profit is inconsistent across regions, products, and customer segments. What drives profit, and where is money being lost? |
+| **Data** | 9,994 orders (2014–2017), plus returns and regional manager tables |
+| **Headline** | **$2.3M in sales but only $286,397 in profit (12.47%).** High sales don't guarantee profit. |
+| **Biggest leak** | Heavy discounting in Furniture: **Tables lost $17,725** at an average **32% discount**, and Furniture's margin is just **3.5%** |
+| **Recommendation** | A **profitability-first strategy:** rein in discounts, invest in high-margin categories, and fix the Central region |
+| **Delivered** | Interactive Tableau dashboard and story, a written case study, and a full project plan with WBS |
+
+---
+
+## The Question
+
+Superstore Inc. sells Furniture, Office Supplies, and Technology across the U.S. to Consumer, Corporate, and Home Office customers. Leadership saw strong sales but uneven profit, and wanted to know:
+
+1. **What drives sales and profit?**
+2. **Where is the business underperforming** — by region, product, and segment?
+3. **What should change** to improve margins?
+
+---
+
+## Data
+
+Three related tables from `sample_superstore.xls`:
+
+| Table | Rows | What it holds | Relationship |
+|---|---|---|---|
+| **Orders** | 9,994 | Each order: date, customer, segment, product, state, sales, quantity, discount, profit | Central table |
+| **Returns** | 800 (296 unique orders) | Orders that were returned | Many returns → one order |
+| **People** | 4 | Regional manager for each region | One manager → many orders |
+
+<img src="Images/Sample%20Superstore%20Dataset%20ERD.png" width="600" alt="Entity relationship diagram of the Orders, Returns, and People tables">
+
+📄 [Data structure overview](Data/Data_Structure_Overview.md)
+
+---
+
+## Key Findings
+
+### 💰 Profitability: sales don't equal profit
+- **$2.3M** in total sales produced **$286,397** in profit, a **12.47%** profit ratio.
+- **Discounts erode margin.** Higher discounts track closely with lower profit.
+- **Tables lost $17,725** with an average discount of **32%**.
+
+### 🗺️ Regions: two engines, one problem area
+
+| Region | Profit | Takeaway |
+|---|---|---|
+| **West** | ~$108,418 | Top profit center |
+| **East** | ~$91,489 | Strong second |
+| **Central** | ~$39,706 | Underperforms, driven by discounted, unprofitable Furniture orders |
+
+- **Top states by sales:** California (~$457.7K), New York (~$310.9K), and Texas (~$170.2K). Texas sells a lot but earns little profit.
+
+### 📦 Products: where the margin is
+
+| Category | Profit margin | Takeaway |
+|---|---|---|
+| **Technology** | 18.7% | Highest margin; Phones and Copiers lead |
+| **Office Supplies** | 17.9% | Strong margin; Storage leads |
+| **Furniture** | 3.5% | Drags down profit; Tables are a net loss, and Bookcases underperform |
+
+- **Phones and Chairs** bring in the most sales, but Chairs, Tables, and Bookcases show that high sales don't guarantee profit.
+
+### 👥 Customers
+- The **Home Office** segment stands out as profitable.
+
+---
+
+## Recommendations
+
+| Area | Recommendation |
+|---|---|
+| **💰 Discounting** | Scale back heavy discounts on Furniture, especially Tables and Bookcases. Move to data-backed pricing that protects margin. |
+| **🗺️ Regions** | Use region-specific plans: expand proven product lines in the West and East, and investigate the root cause of low profit in Central. |
+| **📦 Products** | Shift marketing and budget toward high-margin Technology and Office Supplies. |
+| **📅 Timing** | Plan promotions around seasonal sales peaks. |
+| **↩️ Returns** | Address hidden costs from returns. |
+
+**The shift:** from a sales-driven approach to a **profitability-first** one.
+
+---
+
+## Caveats & Open Questions
+
+**Questions for stakeholders before acting:**
+- Is 2014–2017 data still representative? Is newer data available to validate these findings?
+- How does the return policy affect return rates by category?
+- Is there a known reason for the Central region's performance?
+
+**Limitations:**
+- **Correlation, not causation.** Discounts and low profit move together, but shipping or supplier costs could also play a role.
+- **Missing cost data.** No marketing spend, supplier costs, or inventory costs by region.
+- **Data accuracy is assumed** to be complete for the period.
+
+---
+
+## Project Management
+
+I ran this as a real project, not just an analysis, acting as project manager, business analyst, Tableau developer, and QA.
+
+| Artifact | What it covers |
+|---|---|
+| [Business Requirements](Project%20Management/Business%20Requirement/Capstone%20Project%20-%20Superstore%20Sales%20Performance%20Business%20Requirements.pdf) | Eight dashboard views (KPIs, regional pie, top-N states, sub-category bubbles, sales trend), filters, formats, and layout |
+| [Project Management Plan](Project%20Management/PM%20Plan/SSP_Dashboard_Project_Plan.pdf) | Scope, deliverables, stakeholders, timeline, resources, risks, communication plan, and success metrics |
+| [Work Breakdown Structure (Smartsheet export)](Project%20Management/WBS/Superstore_Sale_Performance_Dashboard_WBS.xlsx) | Every task, broken down and scheduled |
+| [WBS & Timeline Walkthrough (video)](https://youtu.be/t5fny7NXkSs) | A tour of the plan and schedule |
+
+---
+
+## Files
+
+| Folder / file | What's inside |
+|---|---|
+| [`Case Study/`](Case%20Study) | The full written case study (PDF) |
+| [`Tableau/`](Tableau) | [Dashboard workbook](Tableau/Superstore%20Sales%20Performance.twbx) and [case study story workbook](Tableau/Superstore%20Sales%20Performance%20Case%20Study.twbx) (open in Tableau Desktop or Tableau Public) |
+| [`Data/`](Data) | [`sample_superstore.xls`](Data/sample_superstore.xls) and the [data structure overview](Data/Data_Structure_Overview.md) |
+| [`Images/`](Images) | Dashboard and ERD images |
+| [`Project Management/`](Project%20Management) | Requirements, project plan, and WBS |
+
+**Tools:** MySQL Workbench (cleaning and analysis) · SQL · Tableau Desktop and Tableau Public · Excel · Smartsheet
+
+---
+
+## My Role
+
+**Solo project:** project manager, business analyst, Tableau developer, and QA.
+
+- Defined the business requirements and wrote the project plan and WBS
+- Cleaned and analyzed the data with SQL
+- Built the dashboard and case study story in Tableau and published them to Tableau Public
+- Wrote the case study with findings, recommendations, and caveats
+
+<div align="center">
+
+**Lashawn Fofung** · Technical Product Manager · [LinkedIn](https://www.linkedin.com/in/lashawnfofung/) · [Data Portfolio](https://github.com/LashawnFofung/Data-Analysis-Portfolio) · [All Projects](https://github.com/LashawnFofung/LashawnFofung-Portfolio)
+
+</div>
