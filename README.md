@@ -3,7 +3,7 @@
 # 🛒 Superstore Sales Performance
 ### Why $2.3M in sales produced only a 12.47% profit ratio, and how to fix it
 
-**Data Analysis · Tableau · SQL · Project Management** · Orders Jan 2014 – Dec 2017 · Completed July 2025
+**Data Analysis · Tableau · SQL · Project Management** · Orders Jan 2018 – Dec 2021 · Completed July 2025
 
 [![Dashboard](https://img.shields.io/badge/Dashboard-Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/shared/MP44DZ8ZT?%3Adisplay_count=n&%3Aorigin=viz_share_link)
 [![Story](https://img.shields.io/badge/Case_Study_Story-Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/views/SuperstoreSalesPerformanceCaseStudy/SuperstoreSalesPerformanceCaseStudy?%3Alanguage=en-US&publish=yes&%3Asid=&%3Aredirect=auth&%3Adisplay_count=n&%3Aorigin=viz_share_link)
@@ -26,7 +26,7 @@
 | | |
 |---|---|
 | **Question** | Superstore's profit is inconsistent across regions, products, and customer segments. What drives profit, and where is money being lost? |
-| **Data** | 9,994 orders (2014–2017), plus returns and regional manager tables |
+| **Data** | 9,994 order lines (5,009 orders, 2018–2021), plus returns and regional manager tables |
 | **Headline** | **$2.3M in sales but only $286,397 in profit (12.47%).** High sales don't guarantee profit. |
 | **Biggest leak** | Heavy discounting in Furniture: **Tables lost $17,725** at an average **32% discount**, and Furniture's margin is just **3.5%** |
 | **Recommendation** | A **profitability-first strategy:** rein in discounts, invest in high-margin categories, and fix the Central region |
@@ -50,8 +50,8 @@ Three related tables from `sample_superstore.xls`:
 
 | Table | Rows | What it holds | Relationship |
 |---|---|---|---|
-| **Orders** | 9,994 | Each order: date, customer, segment, product, state, sales, quantity, discount, profit | Central table |
-| **Returns** | 800 (296 unique orders) | Orders that were returned | Many returns → one order |
+| **Orders** | 9,994 | One row per product line in an order (5,009 orders): date, customer, segment, product, state, sales, quantity, discount, profit | Central table |
+| **Returns** | 800 (296 unique orders) | Returned orders, listed once per product line | Linked on Order ID |
 | **People** | 4 | Regional manager for each region | One manager → many orders |
 
 <img src="Images/Sample%20Superstore%20Dataset%20ERD.png" width="600" alt="Entity relationship diagram of the Orders, Returns, and People tables">
@@ -109,7 +109,7 @@ Three related tables from `sample_superstore.xls`:
 ## Caveats & Open Questions
 
 **Questions for stakeholders before acting:**
-- Is 2014–2017 data still representative? Is newer data available to validate these findings?
+- Is 2018–2021 data still representative? Is newer data available to validate these findings?
 - How does the return policy affect return rates by category?
 - Is there a known reason for the Central region's performance?
 
